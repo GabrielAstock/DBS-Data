@@ -17,17 +17,15 @@ end end
 
 while true do
 wait()
-	check(1,"rbxassetid://9372519691","rbxassetid://9372519691","rbxassetid://7174202117") -- NIS
-	check(2,"rbxassetid://9372518556","rbxassetid://9372518556","rbxassetid://7174202117") -- logo
-	check(3,"rbxassetid://9372519414","rbxassetid://9372519414","rbxassetid://9372519414") -- RPS
-	check(4,"rbxassetid://9372517224","rbxassetid://9372517224","rbxassetid://7174202117") -- tranbus
-	check(5,"rbxassetid://9372518178","rbxassetid://9372518178","rbxassetid://9372518178") -- plaxton
-	check(6,"rbxassetid://9372520161","rbxassetid://9372520161","rbxassetid://7174202117") -- 18XHAR
-	check(7,"rbxassetid://9372519567","rbxassetid://9372519567","rbxassetid://7174202117") -- 18XALY
-	check(8,"rbxassetid://9372519996","rbxassetid://9372519996","rbxassetid://7174202117") -- 18aly
-	check(9,"rbxassetid://9372519826","rbxassetid://9372519826","rbxassetid://9372519826") -- 18har
-	
-reset()
+	check(1,"rbxassetid://9372519691","rbxassetid://9372519691","rbxassetid://11579259526") -- NIS
+	check(2,"rbxassetid://9372518556","rbxassetid://9372518556","rbxassetid://11579259876") -- logo
+	check(3,"rbxassetid://9372519414","rbxassetid://9372519414","rbxassetid://11579259526") -- RPS
+	check(4,"rbxassetid://9372517224","rbxassetid://9372517224","rbxassetid://11579259526") -- tranbus
+	check(5,"rbxassetid://9372518178","rbxassetid://9372518178","rbxassetid://11579259526") -- plaxton
+	check(6,"rbxassetid://9372520161","rbxassetid://9372520161","rbxassetid://11579260458") -- 18XHAR
+	check(7,"rbxassetid://9372519567","rbxassetid://9372519567","rbxassetid://11579260458") -- 18XALY
+	check(8,"rbxassetid://9372519996","rbxassetid://9372519996","rbxassetid://11579260192") -- 18aly
+	check(9,"rbxassetid://9372519826","rbxassetid://9372519826","rbxassetid://11579260192") -- 18har
 end
 
 -- "Front" "DisplayCabin" "Back&Side"
