@@ -1,9 +1,9 @@
 function check(String,ImageFront,ImageHan,ImageBack)
 	if script.Parent.Value.Value == String then
-	script.Parent.Front.Gui.ImageLabel.Image = ImageFront
-	script.Parent.Display.Gui.ImageLabel.Image = ImageHan
-	script.Parent.Rear.Gui.ImageLabel.Image = ImageBack
-	script.Parent.Back.Gui.ImageLabel.Image = ImageBack
+		script.Parent.Front.Gui.ImageLabel.Image = ImageFront
+		script.Parent.Display.Gui.ImageLabel.Image = ImageHan
+		script.Parent.Rear.Gui.ImageLabel.Image = ImageBack
+		script.Parent.Back.Gui.ImageLabel.Image = ImageBack
 	end
 end
 
@@ -13,10 +13,10 @@ function reset()
 		script.Parent.Value.Value = 0
 	elseif script.Parent.Value.Value < 0 then
 		script.Parent.Value.Value = total
-end end
+	end end
 
 while true do
-wait()
+	wait()
 	check(0,"rbxassetid://9372519691","rbxassetid://9372519691","rbxassetid://11579259526") -- NIS
 	check(1,"rbxassetid://14652016448","rbxassetid://14652016448","rbxassetid://11579259526") -- UPDATE DATE
 	check(2,"rbxassetid://9372518556","rbxassetid://9372518556","rbxassetid://11579259876") -- logo
@@ -39,7 +39,8 @@ wait()
 	check(19,"rbxassetid://14651993666","rbxassetid://14651993666","rbxassetid://14651993666") -- U15Z
 	check(20,"rbxassetid://14652015136","rbxassetid://14652015136","rbxassetid://14652015500") -- U18Z
 	check(21,"rbxassetid://14652015280","rbxassetid://14652015280","rbxassetid://14652015500") -- U18Y
-	
+
+	reset()
 end
 
 -- "Front" "DisplayCabin" "Back&Side"
