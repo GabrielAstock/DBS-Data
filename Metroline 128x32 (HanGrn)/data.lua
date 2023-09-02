@@ -36,7 +36,7 @@ while true do
 	check(16,"rbxassetid://14651992387","rbxassetid://14651992387","rbxassetid://14651992701") -- SH1Z
 	check(17,"rbxassetid://14651992536","rbxassetid://14651992536","rbxassetid://14651992701") -- SH1Y
 	check(18,"rbxassetid://14651993822","rbxassetid://14651993822","rbxassetid://14651994000") -- U15Y
-	check(19,"rbxassetid://14651993666","rbxassetid://14651993666","rbxassetid://14651993666") -- U15Z
+	check(19,"rbxassetid://14651993666","rbxassetid://14651993666","rbxassetid://14651994000") -- U15Z
 	check(20,"rbxassetid://14652015136","rbxassetid://14652015136","rbxassetid://14652015500") -- U18Z
 	check(21,"rbxassetid://14652015280","rbxassetid://14652015280","rbxassetid://14652015500") -- U18Y
 
