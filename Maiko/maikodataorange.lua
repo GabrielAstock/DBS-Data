@@ -36,6 +36,20 @@ while wait() do
         show("rbxassetid://14760935674","rbxassetid://14760935568","rbxassetid://14760935448","rbxassetid://14760936126","NIS")
     end
     
+    elseif script.Parent.RtCode.Value == "U18" then
+        if script.Parent.Direction.Value==false then
+        show("rbxassetid://14760933764","rbxassetid://14760933678","rbxassetid://14760933582","rbxassetid://14760933881","NIS")
+        elseif script.Parent.Direction.Value==true then
+        show("rbxassetid://14760933493","rbxassetid://14760933356","rbxassetid://14760933241","rbxassetid://14760933881","NIS")
+    end
+    
+    elseif script.Parent.RtCode.Value == "N18" then
+        if script.Parent.Direction.Value==false then
+        show("rbxassetid://14859394136","rbxassetid://14859393946","rbxassetid://14859393659","rbxassetid://14859394334","NIS")
+        elseif script.Parent.Direction.Value==true then
+        show("rbxassetid://14859393406","rbxassetid://14859393229","rbxassetid://14859392960","rbxassetid://14859394334","NIS")
+    end
+        
 else show("rbxassetid://11242789421","rbxassetid://11242789421","rbxassetid://11242789421","rbxassetid://11242789421","NIS") 
 end 
 end
