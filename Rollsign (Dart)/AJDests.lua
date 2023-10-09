@@ -12,19 +12,17 @@ local dests = {
 	]]
 	{
 		DestLogo = "rbxassetid://15016176736",
-		
 		DestNum = "HC",
 		DestMain = "Harrington Central",
 		DestVia = " "
 	},
-		{
+	{
 		DestLogo = "rbxassetid://15016176529",
-		
 		DestNum = "HC_15A",
 		DestMain = "Harrington 15A/U15",
 		DestVia = " "
 	},
-		{
+	{
 		DestLogo = "rbxassetid://15016176388",
 		DestNum = "HCE",
 		DestMain = "Harrington Cen. Exp.",
@@ -42,56 +40,55 @@ local dests = {
 		DestMain = "Alyslyn Cen. Exp.",
 		DestVia = " "
 	},
-		{
+	{
 		DestLogo = "rbxassetid://15016177890",
 		DestNum = "ACE_15X",
 		DestMain = "Alyslyn_MorningWing",
 		DestVia = " "
 	},
-		{
+	{
 		DestLogo = "rbxassetid://15016178331",
 		DestNum = "AC_U18",
 		DestMain = "Alyslyn Cen. U18",
 		DestVia = " "
 	},
-	},
-		{
+	{
 		DestLogo = "rbxassetid://15016177653",
 		DestNum = "ALH",
 		DestMain = "Alyslyn Hospital",
 		DestVia = " "
 	},
-		{
+	{
 		DestLogo = "rbxassetid://15016176023",
 		DestNum = "UNI",
 		DestMain = "University",
 		DestVia = " "
 	},
-		{
+	{
 		DestLogo = "rbxassetid://15016175837",
 		DestNum = "UNI_U15",
 		DestMain = "University U15",
 		DestVia = " "
 	},
-		{
+	{
 		DestLogo = "rbxassetid://15016177443",
 		DestNum = "BAR",
 		DestMain = "Barlow Plaza",
 		DestVia = " "
 	},
-		{
+	{
 		DestLogo = "rbxassetid://15016177012",
 		DestNum = "BAR_15X",
 		DestMain = "Barlow_EveningWing",
 		DestVia = " "
 	},
-		{
+	{
 		DestLogo = "rbxassetid://15016177209",
 		DestNum = "BAR_15A",
 		DestMain = "Barlow_15A",
 		DestVia = " "
 	},
-		{
+	{
 		DestLogo = "rbxassetid://15016176235",
 		DestNum = "SBG",
 		DestMain = "Sainsley Bus Garage",
@@ -120,14 +117,14 @@ local dests = {
 		DestNum = "NIS",
 		DestMain = "Not In Svc.",
 		DestVia = " "
-	},
-	{
-		DestLogo = "rbxassetid://15016176880",
-		DestNum = "BL",
-		DestMain = "Blank",
-		DestVia = " "
+		},
+{
+	DestLogo = "rbxassetid://15016176880",
+	DestNum = "BL",
+	DestMain = "Blank",
+	DestVia = " "
 	}
-}
+	}
 
 local ts = game:GetService("TweenService")
 local body
@@ -149,7 +146,7 @@ for i, dest in pairs(dests) do
 		clone.Visible = true
 		clone.Size = UDim2.new(1, 0, 0, body.AJDests.Main.Size.Y * 75)
 		body.AJDests.Main.SurfaceGui.ScrollingFrame.CanvasSize += UDim2.new(0, 0, 0, body.AJDests.Main.Size.Y * 75)
-		
+
 		if clone:FindFirstChild("Main") then clone.Main.Text = dest.DestMain end
 		if clone:FindFirstChild("Via") then clone.Via.Text = dest.DestVia end
 		if clone:FindFirstChild("Num") then clone.Num.Text = dest.DestNum end
@@ -170,7 +167,7 @@ for i, dest in pairs(dests) do
 		clone.Visible = true
 		clone.Size = UDim2.new(1, 0, 0, body.AJDests.Via.Size.Y * 75)
 		body.AJDests.Via.SurfaceGui.ScrollingFrame.CanvasSize += UDim2.new(0, 0, 0, body.AJDests.Via.Size.Y * 75)
-		
+
 		if clone:FindFirstChild("Main") then clone.Main.Text = dest.DestMain end
 		if clone:FindFirstChild("Via") then clone.Via.Text = dest.DestVia end
 		if clone:FindFirstChild("Num") then clone.Num.Text = dest.DestNum end
@@ -191,7 +188,7 @@ for i, dest in pairs(dests) do
 		clone.Visible = true
 		clone.Size = UDim2.new(1, 0, 0, body.AJDests.Num.Size.Y * 75)
 		body.AJDests.Num.SurfaceGui.ScrollingFrame.CanvasSize += UDim2.new(0, 0, 0, body.AJDests.Num.Size.Y * 75)
-		
+
 		if clone:FindFirstChild("Main") then clone.Main.Text = dest.DestMain end
 		if clone:FindFirstChild("Via") then clone.Via.Text = dest.DestVia end
 		if clone:FindFirstChild("Num") then clone.Num.Text = dest.DestNum end
