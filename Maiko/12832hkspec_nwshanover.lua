@@ -166,12 +166,35 @@ while wait() do
 
 	-- Route Data
 
+	elseif script.Parent.RtCode.Value == "290" then
+		if script.Parent.Direction.Value==false then
+		show("rbxassetid://15054039820","rbxassetid://11242789421","rbxassetid://15054039200")
+		wait(5)
+		show("rbxassetid://15054039633","rbxassetid://11242789421","rbxassetid://15054039022")
+		wait(5)
+		show("rbxassetid://15054039427","rbxassetid://11242789421","rbxassetid://15054038866")
+		wait(5)
+		elseif script.Parent.Direction.Value==true then
+		show("rbxassetid://15054038698","rbxassetid://11242789421","rbxassetid://15054038234")
+		wait(5)
+		show("rbxassetid://15054038471","rbxassetid://11242789421","rbxassetid://15054037974")
+		wait(5)
+	end	
+
 	elseif script.Parent.RtCode.Value == "692" then --KMB data
 		if script.Parent.Direction.Value==false then
 		show("rbxassetid://10225391152","rbxassetid://11242789421","rbxassetid://14824243249")
 		elseif script.Parent.Direction.Value==true then
 		show("rbxassetid://10225390733","rbxassetid://11242789421","rbxassetid://14824241231")
 	end
+			
+	elseif script.Parent.RtCode.Value == "930" then
+		show("rbxassetid://15054037774","rbxassetid://15054036774","rbxassetid://15054037345")
+		wait(5)
+		show("rbxassetid://15054037616","rbxassetid://15054036774","rbxassetid://15054037157")
+		wait(5)
+		show("rbxassetid://15054037492","rbxassetid://15054036774","rbxassetid://15054036957")
+		wait(5)
 
 	elseif script.Parent.RtCode.Value == "914X" then
 		show("rbxassetid://14711261190","rbxassetid://11242789421","rbxassetid://14711261087")
@@ -181,6 +204,36 @@ while wait() do
 		wait(5)
 		show("rbxassetid://14711260990","rbxassetid://11242789421","rbxassetid://14711260609")
 		wait(5)
+
+	elseif script.Parent.RtCode.Value == "933" then
+		if script.Parent.Direction.Value==false then
+		show("rbxassetid://10181809070","rbxassetid://10181764498","rbxassetid://15054036542")
+		wait(5)
+		show("rbxassetid://10181817801","rbxassetid://10181764498","rbxassetid://15054036243")
+		wait(5)
+		elseif script.Parent.Direction.Value==true then
+		show("rbxassetid://10181812804","rbxassetid://10181764498","rbxassetid://15054035943")
+		wait(5)
+		show("rbxassetid://10181811278","rbxassetid://10181764498","rbxassetid://15054035690")
+		wait(5)
+	end	
+
+	elseif script.Parent.RtCode.Value == "934" then
+		if script.Parent.Direction.Value==false then
+		show("rbxassetid://15054035410","rbxassetid://11242789421","rbxassetid://15054034534")
+		wait(5)
+		show("rbxassetid://15054035181","rbxassetid://11242789421","rbxassetid://15054034363")
+		wait(5)
+		show("rbxassetid://15054034971","rbxassetid://11242789421","rbxassetid://15054034534")
+		wait(5)
+		show("rbxassetid://15054034740","rbxassetid://11242789421","rbxassetid://15054034363")
+		wait(5)
+		elseif script.Parent.Direction.Value==true then
+		show("rbxassetid://15054034124","rbxassetid://11242789421","rbxassetid://15054033863")
+		wait(5)
+		show("rbxassetid://15054350445","rbxassetid://11242789421","rbxassetid://15054033574")
+		wait(5)
+	end	
 
 	elseif script.Parent.RtCode.Value == "967S" then
 		show("rbxassetid://14711260450","rbxassetid://14711259887","rbxassetid://14711260164")
