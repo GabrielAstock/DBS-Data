@@ -188,7 +188,7 @@ while wait() do
 		show("rbxassetid://10225390733","rbxassetid://11242789421","rbxassetid://14824241231")
 	end
 			
-	elseif script.Parent.RtCode.Value == "930" then
+	elseif script.Parent.RtCode.Value == "905P" then
 		show("rbxassetid://15054037774","rbxassetid://15054036774","rbxassetid://15054037345")
 		wait(5)
 		show("rbxassetid://15054037616","rbxassetid://15054036774","rbxassetid://15054037157")
