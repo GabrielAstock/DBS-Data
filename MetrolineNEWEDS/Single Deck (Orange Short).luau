@@ -1,8 +1,8 @@
 function show(front,rear)
-	script.Parent.Magnet.Front.SurfaceGui.Image1.Value = front
+	script.Parent.Magnet.Front.SurfaceGui.ImageLabel.Image = front
 	script.Parent.Model.Rt.C.ImageLabel.Image = front	
-	script.Parent.Magnet.Side.SurfaceGui.Image1.Value = rear
-	script.Parent.Magnet.Rear.SurfaceGui.Image1.Value = rear
+	script.Parent.Magnet.Side.SurfaceGui.ImageLabel.Image = rear
+	script.Parent.Magnet.Rear.SurfaceGui.ImageLabel.Image = rear
 end
 
 while wait() do
