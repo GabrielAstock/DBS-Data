@@ -24,14 +24,14 @@ while wait() do
 	elseif script.Parent.Model.Rt.R.Num.Text == "" or script.Parent.Model.Rt.R.Num.Text == "PLAXTON" then
 		show("rbxassetid://9372518178","rbxassetid://11579259526")	
 		
-	elseif script.Parent.Model.Rt.R.Num.Text == "15" then
+	elseif script.Parent.Model.Rt.R.Num.Text == "15X" then
 		if script.Parent.Direction.Value==true then
 			show("rbxassetid://14651991224","rbxassetid://14651991435")
 		else
 			show("rbxassetid://14651990722","rbxassetid://14651991435")
 		end
 		
-	elseif script.Parent.Model.Rt.R.Num.Text == "15X" then
+	elseif script.Parent.Model.Rt.R.Num.Text == "15" then
 		if script.Parent.Direction.Value==true then
 			show("rbxassetid://14651990971","rbxassetid://14651991435")
 		else
