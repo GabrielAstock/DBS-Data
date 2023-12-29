@@ -13,7 +13,7 @@ while wait() do
 		show("rbxassetid://14652016448","rbxassetid://11579259526")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "LOGO" then
-		show("rbxassetid://14652016448","rbxassetid://11579259526")
+		show("rbxassetid://9372518556","rbxassetid://11579259526")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "RPS" then
 		show("rbxassetid://9372519414","rbxassetid://11579259526")
