@@ -9,19 +9,19 @@ while wait() do
 	if script.Parent.Model.Rt.R.Num.Text == "" or script.Parent.Model.Rt.R.Num.Text == "NIS" then
 		show("rbxassetid://9372519691","rbxassetid://11579259526")
 
-	elseif script.Parent.Model.Rt.R.Num.Text == "" or script.Parent.Model.Rt.R.Num.Text == "DATE" then
+	elseif script.Parent.Model.Rt.R.Num.Text == "DATE" then
 		show("rbxassetid://14652016448","rbxassetid://11579259526")
 
-	elseif script.Parent.Model.Rt.R.Num.Text == "" or script.Parent.Model.Rt.R.Num.Text == "LOGO" then
+	elseif script.Parent.Model.Rt.R.Num.Text == "LOGO" then
 		show("rbxassetid://14652016448","rbxassetid://11579259526")
 
-	elseif script.Parent.Model.Rt.R.Num.Text == "" or script.Parent.Model.Rt.R.Num.Text == "RPS" then
+	elseif script.Parent.Model.Rt.R.Num.Text == "RPS" then
 		show("rbxassetid://9372519414","rbxassetid://11579259526")
 
-	elseif script.Parent.Model.Rt.R.Num.Text == "" or script.Parent.Model.Rt.R.Num.Text == "TRANSBUS" then
+	elseif script.Parent.Model.Rt.R.Num.Text == "TRANSBUS" then
 		show("rbxassetid://9372517224","rbxassetid://11579259526")	
 
-	elseif script.Parent.Model.Rt.R.Num.Text == "" or script.Parent.Model.Rt.R.Num.Text == "PLAXTON" then
+	elseif script.Parent.Model.Rt.R.Num.Text == "PLAXTON" then
 		show("rbxassetid://9372518178","rbxassetid://11579259526")	
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "15X" then
