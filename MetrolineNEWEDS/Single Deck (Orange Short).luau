@@ -53,6 +53,7 @@ while wait() do
 		show("rbxassetid://15946327458","rbxassetid://11579259526")
 		wait(4)
 		show("rbxassetid://15946327272","rbxassetid://11579259526")
+		wait(4)
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "15X" then
 		if script.Parent.Direction.Value==true then
@@ -70,10 +71,12 @@ while wait() do
 			show("rbxassetid://15946333641","rbxassetid://14651991435")
 			wait(4)
 			show("rbxassetid://14651990442","rbxassetid://14651991435")
+			wait(4)
 		else
 			show("rbxassetid://14651990971","rbxassetid://14651991435")
 			wait(4)
 			show("rbxassetid://15946333817","rbxassetid://14651991435")
+			wait(4)
 		end
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "15R" then
@@ -95,10 +98,12 @@ while wait() do
 			show("rbxassetid://15946330944","rbxassetid://11579260192")
 			wait(4)
 			show("rbxassetid://15946331122","rbxassetid://11579260192")
+			wait(4)
 		else
 			show("rbxassetid://15946332886","rbxassetid://11579260192")
 			wait(4)
 			show("rbxassetid://15946332646","rbxassetid://11579260192")
+			wait(4)
 		end
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "18X" then
@@ -108,12 +113,14 @@ while wait() do
 			show("rbxassetid://15946331596","rbxassetid://11579260458")
 			wait(4)
 			show("rbxassetid://15946332071","rbxassetid://11579260458")
+			wait(4)
 		else
 			show("rbxassetid://15946332335","rbxassetid://11579260458")
 			wait(4)
 			show("rbxassetid://15946331818","rbxassetid://11579260458")
 			wait(4)
 			show("rbxassetid://15946332071","rbxassetid://11579260458")
+			wait(4)
 		end
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "N18" then
@@ -121,10 +128,12 @@ while wait() do
 			show("rbxassetid://15946326749","rbxassetid://14651989677")
 			wait(4)
 			show("rbxassetid://14651989212","rbxassetid://14651989677")
+			wait(4)
 		else
 			show("rbxassetid://14651989513","rbxassetid://14651989677")
 			wait(4)
 			show("rbxassetid://15946326909","rbxassetid://14651989677")
+			wait(4)
 		end
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "18R" then
@@ -143,6 +152,7 @@ while wait() do
 			show("rbxassetid://14651992536","rbxassetid://14651992701")
 			wait(4)
 			show("rbxassetid://15946326386","rbxassetid://14651992701")
+			wait(4)
 		else
 			show("rbxassetid://14651992387","rbxassetid://14651992701")
 			wait(4)
@@ -151,6 +161,7 @@ while wait() do
 			show("rbxassetid://15946325737","rbxassetid://14651992701")
 			wait(4)
 			show("rbxassetid://15946326386","rbxassetid://14651992701")
+			wait(4)
 		end
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "U15" then
@@ -185,6 +196,7 @@ while wait() do
 		show("rbxassetid://15946329874","rbxassetid://15946330451")
 		wait (4)
 		show("rbxassetid://15946330154","rbxassetid://15946330451")
+		wait(4)
 		
 		
 	elseif script.Parent.Model.Rt.R.Num.Text == "629M" then
@@ -199,6 +211,3 @@ while wait() do
 
 else show("rbxassetid://9372519691","rbxassetid://11579259526")end
 end
-
-
-
