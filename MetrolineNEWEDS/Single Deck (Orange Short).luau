@@ -5,6 +5,13 @@ function show(front,rear)
 	script.Parent.Magnet.Rear.SurfaceGui.ImageLabel.Image = rear
 end
 
+function show(front,rear)
+	script.Parent.Magnet.Front.SurfaceGui.Image1.Value = front
+	script.Parent.Model.Rt.C.ImageLabel.Image = front	
+	script.Parent.Magnet.Side.SurfaceGui.Image1.Value = rear
+	script.Parent.Magnet.Rear.SurfaceGui.Image1.Value = rear
+end
+
 while wait() do
 	if script.Parent.Model.Rt.R.Num.Text == "" or script.Parent.Model.Rt.R.Num.Text == "NIS" then
 		show("rbxassetid://9372519691","rbxassetid://11579259526")
@@ -182,7 +189,6 @@ while wait() do
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "629M" then
 		show("rbxassetid://15946329617","rbxassetid://15946329762")
-		end
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "630" then
 		if script.Parent.Direction.Value==true then
@@ -193,4 +199,5 @@ while wait() do
 
 	else show("rbxassetid://9372519691","rbxassetid://11579259526")end
 end
+
 
