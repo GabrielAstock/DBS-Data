@@ -11,140 +11,140 @@ local dests = {
 		If you want the destination number to be displayed as a logo, set the "DestLogo" property to the destination texture id (create a decal, add the asset, then copy the TextureID)
 	]]
 	{
-		DestLogo = "rbxassetid://14890045994",
+		DestLogo = "rbxassetid://17626391887",
 		
 		DestNum = "18",
 		DestMain = "Harrington C.Hall",
 		DestVia = " "
 	},
 	{
-		DestLogo = "rbxassetid://14890045994",
+		DestLogo = "rbxassetid://17626392191",
 		DestNum = "18",
 		DestMain = "Alyslyn Central",
 		DestVia = " "
 	},
 	{
-		DestLogo = "rbxassetid://14890046536",
+		DestLogo = "rbxassetid://17626392471",
 		DestNum = "18X",
 		DestMain = "Alyslyn Cen. Exp.",
 		DestVia = " "
 	},
 	{
-		DestLogo = "rbxassetid://14890046379",
+		DestLogo = "rbxassetid://17626393598",
 		DestNum = "18X",
 		DestMain = "Harrington CH. Exp.",
 		DestVia = " "
 	},
 		{
-		DestLogo = "rbxassetid://14890045378",
+		DestLogo = "rbxassetid://17626390489",
 		
 		DestNum = "N18",
 		DestMain = "Harrington C.Hall",
 		DestVia = " "
 	},
 		{
-		DestLogo = "rbxassetid://14890045506",
+		DestLogo = "rbxassetid://17626390816",
 		
 		DestNum = "N18",
 		DestMain = "Alyslyn Central",
 		DestVia = " "
 	},
 		{
-		DestLogo = "rbxassetid://14890043507",
+		DestLogo = "rbxassetid://17626387537",
 		
 		DestNum = "U18",
 		DestMain = "Sainsley Uni",
 		DestVia = " "
 	},
 		{
-		DestLogo = "rbxassetid://14890043228",
+		DestLogo = "rbxassetid://17626387212",
 		
 		DestNum = "U18",
 		DestMain = "Alyslyn Central",
 		DestVia = " "
 	},
 		{
-		DestLogo = "rbxassetid://14890047369",
+		DestLogo = "rbxassetid://17626395445,
 		
 		DestNum = "15",
 		DestMain = "Alyslyn Central",
 		DestVia = " "
 	},
 			{
-		DestLogo = "rbxassetid://14890046887",
+		DestLogo = "rbxassetid://17626394731",
 		
 		DestNum = "15",
 		DestMain = "Barlow Plaza",
 		DestVia = " "
 	},
 			{
-		DestLogo = "rbxassetid://14890047136",
+		DestLogo = "rbxassetid://17626395148",
 		
 		DestNum = "15",
 		DestMain = "Alyslyn Central - Morning Wing",
 		DestVia = " "
 	},
 			{
-		DestLogo = "rbxassetid://14890046700",
+		DestLogo = "rbxassetid://17626394197",
 		
 		DestNum = "15",
 		DestMain = "Barlow Plaza - Evening Wing",
 		DestVia = " "
 	},
 			{
-		DestLogo = "rbxassetid://14890043950",
+		DestLogo = "rbxassetid://17626388404",
 		
 		DestNum = "U15",
 		DestMain = "Sainsley University",
 		DestVia = " "
 	},
 			{
-		DestLogo = "rbxassetid://14890043735",
+		DestLogo = "rbxassetid://17626387895",
 		
 		DestNum = "U15",
 		DestMain = "Harrington Central",
 		DestVia = " "
 	},
 			{
-		DestLogo = "rbxassetid://14890044823",
+		DestLogo = "rbxassetid://17626389632",
 		
 		DestNum = "SH1",
 		DestMain = "Sainsley Bus Garage",
 		DestVia = " "
 	},
 			{
-		DestLogo = "rbxassetid://14890044524",
+		DestLogo = "rbxassetid://17626389266",
 		
 		DestNum = "SH1",
 		DestMain = "Alyslyn Hospital",
 		DestVia = " "
 	},
 	{
-		DestLogo = "rbxassetid://14890045015",
+		DestLogo = "rbxassetid://17626389892",
 		DestNum = "RRS",
 		DestMain = "Rail Replace Svc.",
 		DestVia = " "
 	},
 	{
-		DestLogo = "rbxassetid://14890044140",
+		DestLogo = "rbxassetid://17626388874",
 		DestNum = "TIP",
 		DestMain = "Training In Prog.",
 		DestVia = " "
 	},
 	{
-		DestLogo = "rbxassetid://14890045640",
+		DestLogo = "rbxassetid://17626391157",
 		DestNum = "Logo",
 		DestMain = "Metroline",
 		DestVia = " "
 	},
 	{
-		DestLogo = "rbxassetid://14890045156",
+		DestLogo = "rbxassetid://17626390235",
 		DestNum = "NIS",
 		DestMain = "Not In Svc.",
 		DestVia = " "
 	},
 	{
-		DestLogo = "rbxassetid://14890045817",
+		DestLogo = "rbxassetid://17626391476",
 		DestNum = "BL",
 		DestMain = "Blank",
 		DestVia = " "
