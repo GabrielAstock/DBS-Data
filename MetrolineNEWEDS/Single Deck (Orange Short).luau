@@ -17,10 +17,10 @@ while wait() do
 		show("rbxassetid://9372519691","rbxassetid://11579259526")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "DATE" then
-		show("rbxassetid://15946335976","rbxassetid://11579259526")
+		show("rbxassetid://83479476802459","rbxassetid://11579259526")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "VER" then
-		show("rbxassetid://15946325207","rbxassetid://11579259526")
+		show("rbxassetid://114691454553837","rbxassetid://11579259526")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "TUP" then
 		show("rbxassetid://15946325365","rbxassetid://11579259526")
@@ -93,6 +93,42 @@ while wait() do
 			show("rbxassetid://15946334768","rbxassetid://15946335139")
 		else
 			show("rbxassetid://15946336169","rbxassetid://15946335139")
+		end
+	elseif script.Parent.Model.Rt.R.Num.Text == "17" then
+		if script.Parent.Direction.Value==true then
+			show("rbxassetid://89234038888660","rbxassetid://122748321002132")
+			wait(8)
+			show("rbxassetid://129617132269595","rbxassetid://122748321002132")
+			wait(8)
+			show("rbxassetid://108039459135411","rbxassetid://122748321002132")
+		wait(4)
+		else
+			show("rbxassetid://100920814605244","rbxassetid://122748321002132")
+			wait(8)
+			show("rbxassetid://110280504139354","rbxassetid://122748321002132")
+			wait(8)
+			show("rbxassetid://82236154982052","rbxassetid://122748321002132")
+		wait(4)
+		end
+	elseif script.Parent.Model.Rt.R.Num.Text == "17X" then
+		if script.Parent.Direction.Value==true then
+			show("rbxassetid://107571441652058","rbxassetid://79546884376831")
+			wait(8)
+			show("rbxassetid://90231273335894","rbxassetid://79546884376831")
+			wait(8)
+			show("rbxassetid://127917877817732","rbxassetid://79546884376831")
+			wait(8)
+			show("rbxassetid://85367965219899","rbxassetid://79546884376831")
+		wait(4)
+		else
+			show("rbxassetid://99052264001999","rbxassetid://79546884376831")
+			wait(8)
+			show("rbxassetid://76234207214181","rbxassetid://79546884376831")
+			wait(8)
+			show("rbxassetid://121075049694067","rbxassetid://79546884376831")
+			wait(8)
+			show("rbxassetid://85367965219899","rbxassetid://79546884376831")
+		wait(4)
 		end
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "18" then
