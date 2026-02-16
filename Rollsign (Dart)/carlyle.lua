@@ -11,6 +11,90 @@ local dests = {
 		If you want the destination number to be displayed as a logo, set the "DestLogo" property to the destination texture id (create a decal, add the asset, then copy the TextureID)
 	]]
 	{
+		DestLogo = "rbxassetid://14890047369",
+		
+		DestNum = "15",
+		DestMain = "Alyslyn Central",
+		DestVia = " "
+	},
+			{
+		DestLogo = "rbxassetid://14890046887",
+		
+		DestNum = "15",
+		DestMain = "Barlow Plaza",
+		DestVia = " "
+	},
+{
+		DestLogo = "rbxassetid://127638693963665",
+		
+		DestNum = "15A",
+		DestMain = "Harrington Central",
+		DestVia = " "
+	},
+{
+		DestLogo = "rbxassetid://109673688747827",
+		
+		DestNum = "15A",
+		DestMain = "Barlow Plaza",
+		DestVia = " "
+	},
+			{
+		DestLogo = "rbxassetid://14890047136",
+		
+		DestNum = "15X",
+		DestMain = "Alyslyn Central - Morning Wing",
+		DestVia = " "
+	},
+			{
+		DestLogo = "rbxassetid://14890046700",
+		
+		DestNum = "15X",
+		DestMain = "Barlow Plaza - Evening Wing",
+		DestVia = " "
+	},
+			{
+		DestLogo = "rbxassetid://14890043950",
+		
+		DestNum = "U15",
+		DestMain = "Sainsley University",
+		DestVia = " "
+	},
+			{
+		DestLogo = "rbxassetid://14890043735",
+		
+		DestNum = "U15",
+		DestMain = "Harrington Central",
+		DestVia = " "
+	},
+{
+		DestLogo = "rbxassetid://116272702392991",
+		
+		DestNum = "17",
+		DestMain = "Barlow Plaza",
+		DestVia = " "
+	},
+{
+		DestLogo = "rbxassetid://100701536594413",
+		
+		DestNum = "17",
+		DestMain = "Snerdan Piers",
+		DestVia = " "
+	},
+{
+		DestLogo = "rbxassetid://124059444328313",
+		
+		DestNum = "17X",
+		DestMain = "Barlow Plaza",
+		DestVia = " "
+	},
+{
+		DestLogo = "rbxassetid://140695406563158",
+		
+		DestNum = "17X",
+		DestMain = "Snerdan Piers",
+		DestVia = " "
+	},
+			{
 		DestLogo = "rbxassetid://14890045994",
 		
 		DestNum = "18",
@@ -63,46 +147,60 @@ local dests = {
 		DestMain = "Alyslyn Central",
 		DestVia = " "
 	},
-		{
-		DestLogo = "rbxassetid://14890047369",
+	{
+		DestLogo = "rbxassetid://116161213144885",
 		
-		DestNum = "15",
-		DestMain = "Alyslyn Central",
+		DestNum = "629",
+		DestMain = "Silvermarine Zoo",
 		DestVia = " "
 	},
-			{
-		DestLogo = "rbxassetid://14890046887",
+	{
+		DestLogo = "rbxassetid://111044417838489",
 		
-		DestNum = "15",
-		DestMain = "Barlow Plaza",
+		DestNum = "629",
+		DestMain = "Queensway West",
 		DestVia = " "
 	},
-			{
-		DestLogo = "rbxassetid://14890047136",
+	{
+		DestLogo = "rbxassetid://100049384088679",
 		
-		DestNum = "15",
-		DestMain = "Alyslyn Central - Morning Wing",
+		DestNum = "629A",
+		DestMain = "Special to Sainsley Central",
 		DestVia = " "
 	},
-			{
-		DestLogo = "rbxassetid://14890046700",
+	{
+		DestLogo = "rbxassetid://138584951611460",
 		
-		DestNum = "15",
-		DestMain = "Barlow Plaza - Evening Wing",
+		DestNum = "629A",
+		DestMain = "Special to Plover Praya",
 		DestVia = " "
 	},
-			{
-		DestLogo = "rbxassetid://14890043950",
+	{
+		DestLogo = "rbxassetid://135257672739440",
 		
-		DestNum = "U15",
-		DestMain = "Sainsley University",
+		DestNum = "629B",
+		DestMain = "Silvermarine Zoo Via Southern Market",
 		DestVia = " "
 	},
-			{
-		DestLogo = "rbxassetid://14890043735",
+	{
+		DestLogo = "rbxassetid://127606753725525",
 		
-		DestNum = "U15",
-		DestMain = "Harrington Central",
+		DestNum = "629M",
+		DestMain = "Silvermarine Zoo Via Sainsley KCR",
+		DestVia = " "
+	},
+	{
+		DestLogo = "rbxassetid://138529195570585",
+		
+		DestNum = "630",
+		DestMain = "Silvermarine Zoo",
+		DestVia = " "
+	},
+	{
+		DestLogo = "rbxassetid://71555202551746",
+		
+		DestNum = "630",
+		DestMain = "Plover Praya",
 		DestVia = " "
 	},
 			{
