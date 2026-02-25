@@ -83,7 +83,7 @@ local dests = {
         DestVia = " "
     },
 	    {
-        DestLogo = "rbxassetid://91126269071856",
+        DestLogo = "rbxassetid://121649678975049",
         DestNum = "QWW",
         DestMain = "Queensway (West)",
         DestVia = " "
