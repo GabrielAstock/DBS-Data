@@ -1,0 +1,32 @@
+[
+	{
+		"Name": "Volvo BZL SD 10.35m",
+		"ModelName": "BZL_10.3m_MB_14xx",
+		"AssetId": 127507537564207,
+		"Image": "rbxassetid://12555633409",
+		"SpawnBayName": "Snerdan",
+		"IsGamepass": false,
+		"GamepassId": 0,
+		"GamepassType": 1
+	},
+	{
+		"Name": "ADL Enviro 200 MMC 10.8m",
+		"ModelName": "E200MMC_MB_10800_COD",
+		"AssetId": 138148758057270,
+		"Image": "rbxassetid://12555633409",
+		"SpawnBayName": "Snerdan",
+		"IsGamepass": false,
+		"GamepassId": 0,
+		"GamepassType": 1
+	},
+	{
+		"Name": "ADL Enviro 200 MMC 9.75m",
+		"ModelName": "E200MMC_MB_9750_COD",
+		"AssetId": 70761887924353,
+		"Image": "rbxassetid://12555633409",
+		"SpawnBayName": "Snerdan",
+		"IsGamepass": false,
+		"GamepassId": 0,
+		"GamepassType": 1
+	}
+]
