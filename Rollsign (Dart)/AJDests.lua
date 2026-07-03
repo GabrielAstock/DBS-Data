@@ -59,6 +59,12 @@ local dests = {
         DestVia = " "
     },
     {
+        DestLogo = "rbxassetid://111862008411809",
+        DestNum = "ETN",
+        DestMain = "Eton",
+        DestVia = " "
+    },
+    {
         DestLogo = "rbxassetid://15016176736",
         DestNum = "HC",
         DestMain = "Harrington Central",
@@ -137,9 +143,15 @@ local dests = {
 		DestVia = " "
 	},
 	{
-		DestLogo = "rbxassetid://9107276852",
+		DestLogo = "rbxassetid://101501997450862",
+		DestNum = "TRG",
+		DestMain = "Terran Green Bus Garage",
+		DestVia = " "
+	},	
+	{
+		DestLogo = "rbxassetid://103435560663908",
 		DestNum = "Logo",
-		DestMain = "Metroline",
+		DestMain = "Metrobus",
 		DestVia = " "
 	},
 	{
