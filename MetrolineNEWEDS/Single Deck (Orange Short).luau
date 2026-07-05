@@ -237,6 +237,12 @@ while wait() do
 		else
 			show("rbxassetid://100737227746356","rbxassetid://100941478465837")
 		end
+	elseif script.Parent.Model.Rt.R.Num.Text == "N41" then
+		if script.Parent.Direction.Value==true then
+			show("rbxassetid://115220669686719","rbxassetid://94485634147014")
+		else
+			show("rbxassetid://94116181001453","rbxassetid://94485634147014")
+		end
 	elseif script.Parent.Model.Rt.R.Num.Text == "42" then
 		if script.Parent.Direction.Value==true then
 			show("rbxassetid://77481847944290","rbxassetid://120707520946021")
