@@ -31,7 +31,7 @@
 	},
 		{
 		"Name": "Enviro200MMC 9.7m (DEM41-60)",
-		"ModelName": "E200MMC_MTB_DEM31-60",
+		"ModelName": "E200MMC_MTB_DEM31_60",
 		"AssetId": 110334731977325,
 		"Image": "rbxassetid://7495521129",
 		"SpawnBayName": "TerranGreen",
