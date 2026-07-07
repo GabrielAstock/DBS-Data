@@ -39,6 +39,16 @@
 		"GamepassId": 0,
 		"GamepassType": 1
 	},
+		{
+		"Name": "Enviro 200 MMC 9.75m (Facelift)",
+		"ModelName": "E200MMC_MB_9750_Batch2",
+		"AssetId": 119237403167314,
+		"Image": "rbxassetid://7495521129",
+		"SpawnBayName": "Sainsley",
+		"IsGamepass": false,
+		"GamepassId": 0,
+		"GamepassType": 1
+	},
 	{
 		"Name": "Dennis Trident 10.6m (TAL1-25)",
 		"ModelName": "ALX400_LH_TAL1-25",
