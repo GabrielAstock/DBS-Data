@@ -78,5 +78,15 @@
 		"IsGamepass": false,
 		"GamepassId": 0,
 		"GamepassType": 1
+	},
+		{
+		"Name": "Enviro 400 MMC (Hybrid) (TEH21-35)",
+		"ModelName": "MTB Enviro400MMC Hybrid",
+		"AssetId": 128688821483073,
+		"Image": "rbxassetid://7495521129",
+		"SpawnBayName": "Sainsley",
+		"IsGamepass": false,
+		"GamepassId": 0,
+		"GamepassType": 1
 	}
 ]
