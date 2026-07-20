@@ -60,6 +60,16 @@
 		"GamepassType": 1
 	},
 			{
+		"Name": "[VIP+] Volvo B5TL (E400MMC Bodied)",
+		"ModelName": "MTB Enviro400MMC B5TL",
+		"AssetId": 94298674861817,
+		"Image": "rbxassetid://7495521129",
+		"SpawnBayName": "TerranGreen",
+		"IsGamepass": false,
+		"GamepassId": 0,
+		"GamepassType": 1
+	},
+			{
 		"Name": "Volvo BZL 9.6m (VMSS1-10)",
 		"ModelName": "BZL_9.6m_MTB",
 		"AssetId": 104556687197604,
