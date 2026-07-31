@@ -1,82 +1,130 @@
 [
 	{
 		"Name": "GGB MAN A91",
-		"ModelName": "Local mtrans e5",
-		"AssetId": 83883955461857,
 		"Image": "rbxassetid://14803703648",
 		"SpawnBayName": "TerranGreen",
 		"IsGamepass": false,
 		"GamepassId": 0,
-		"GamepassType": 1
+		"GamepassType": 1,
+		"Variants": [
+			{
+				"VariantName": "Standard Fleet",
+				"AssetId": 83883955461857,
+				"FleetSize": 5,
+				"MaxStock": 5
+			}
+		]
 	},
 	{
 		"Name": "Dennis Dart (Single Door)",
-		"ModelName": "MTB_DL",
-		"AssetId": 132588739472803,
 		"Image": "rbxassetid://7495521129",
 		"SpawnBayName": "TerranGreen",
 		"IsGamepass": false,
 		"GamepassId": 0,
-		"GamepassType": 1
-	},
-		{
-		"Name": "Dennis Trident (TAL26-60)",
-		"ModelName": "ALX400_LH",
-		"AssetId": 126533083974157,
-		"Image": "rbxassetid://7495521129",
-		"SpawnBayName": "TerranGreen",
-		"IsGamepass": false,
-		"GamepassId": 0,
-		"GamepassType": 1
-	},
-		{
-		"Name": "Enviro200MMC 9.7m (DEM41-60)",
-		"ModelName": "E200MMC_MTB_DEM31_60",
-		"AssetId": 110334731977325,
-		"Image": "rbxassetid://7495521129",
-		"SpawnBayName": "TerranGreen",
-		"IsGamepass": false,
-		"GamepassId": 0,
-		"GamepassType": 1
+		"GamepassType": 1,
+		"Variants": [
+			{
+				"VariantName": "Standard Fleet",
+				"AssetId": 132588739472803,
+				"FleetSize": 12,
+				"MaxStock": 12
+			}
+		]
 	},
 	{
-		"Name": "Man 14.220 Euro 4",
-		"ModelName": "Man 14.220 Euro 4",
-		"AssetId": 114783648754046,
+		"Name": "Dennis Trident (TAL)",
 		"Image": "rbxassetid://7495521129",
 		"SpawnBayName": "TerranGreen",
 		"IsGamepass": false,
 		"GamepassId": 0,
-		"GamepassType": 1
-	},
+		"GamepassType": 1,
+		"Variants": [
 			{
+				"VariantName": "TAL26-60 Batch",
+				"AssetId": 126533083974157,
+				"FleetSize": 13,
+				"MaxStock": 13
+			}
+		]
+	},
+	{
+		"Name": "Enviro200MMC 9.7m (DEM)",
+		"Image": "rbxassetid://7495521129",
+		"SpawnBayName": "TerranGreen",
+		"IsGamepass": false,
+		"GamepassId": 0,
+		"GamepassType": 1,
+		"Variants": [
+			{
+				"VariantName": "DEM41-60 Batch",
+				"AssetId": 110334731977325,
+				"FleetSize": 20,
+				"MaxStock": 20
+			}
+		]
+	},
+	{
+		"Name": "Man 14.220 (MM)",
+		"Image": "rbxassetid://7495521129",
+		"SpawnBayName": "TerranGreen",
+		"IsGamepass": false,
+		"GamepassId": 0,
+		"GamepassType": 1,
+		"Variants": [
+			{
+				"VariantName": "Standard Fleet",
+				"AssetId": 114783648754046,
+				"FleetSize": 20,
+				"MaxStock": 20
+			}
+		]
+	},
+	{
 		"Name": "[PCV+] Scania N250UD",
-		"ModelName": "[PCV] MTB N250UD",
-		"AssetId": 94298674861817,
 		"Image": "rbxassetid://7495521129",
 		"SpawnBayName": "TerranGreen",
 		"IsGamepass": false,
 		"GamepassId": 0,
-		"GamepassType": 1
-	},
+		"GamepassType": 1,
+		"Variants": [
 			{
+				"VariantName": "Standard Fleet",
+				"AssetId": 94298674861817,
+				"FleetSize": 15,
+				"MaxStock": 15
+			}
+		]
+	},
+	{
 		"Name": "[VIP+] Volvo B5TL (E400MMC Bodied)",
-		"ModelName": "MTB Enviro400MMC B5TL",
-		"AssetId": 104544127614678,
 		"Image": "rbxassetid://7495521129",
 		"SpawnBayName": "TerranGreen",
 		"IsGamepass": false,
 		"GamepassId": 0,
-		"GamepassType": 1
-	},
+		"GamepassType": 1,
+		"Variants": [
 			{
+				"VariantName": "VIP Fleet",
+				"AssetId": 104544127614678,
+				"FleetSize": 2,
+				"MaxStock": 2
+			}
+		]
+	},
+	{
 		"Name": "Volvo BZL 9.6m (VMSS1-10)",
-		"ModelName": "BZL_9.6m_MTB",
-		"AssetId": 104556687197604,
 		"Image": "rbxassetid://7495521129",
 		"SpawnBayName": "TerranGreen",
 		"IsGamepass": false,
 		"GamepassId": 0,
-		"GamepassType": 1
+		"GamepassType": 1,
+		"Variants": [
+			{
+				"VariantName": "VMSS1-10 Batch",
+				"AssetId": 104556687197604,
+				"FleetSize": 10,
+				"MaxStock": 10
+			}
+		]
 	}
 ]
