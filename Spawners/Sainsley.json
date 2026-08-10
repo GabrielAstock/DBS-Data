@@ -1,21 +1,5 @@
 [
 	{
-		"Name": "Man 14.220 Euro 3 (MM)",
-		"Image": "rbxassetid://7495521129",
-		"SpawnBayName": "Sainsley",
-		"IsGamepass": false,
-		"GamepassId": 0,
-		"GamepassType": 1,
-		"Variants": [
-			{
-				"VariantName": "Standard Fleet",
-				"AssetId": 119186868936720,
-				"FleetSize": 5,
-				"MaxStock": 5
-			}
-		]
-	},
-	{
 		"Name": "Volvo B8RLE (VM)",
 		"Image": "rbxassetid://7495521129",
 		"SpawnBayName": "Sainsley",
@@ -28,6 +12,22 @@
 				"AssetId": 91981893673476,
 				"FleetSize": 20,
 				"MaxStock": 20
+			}
+		]
+	},
+		{
+		"Name": "[VIP] Volvo B9TL 12m (VOLA)",
+		"Image": "rbxassetid://7495521129",
+		"SpawnBayName": "Sainsley",
+		"IsGamepass": false,
+		"GamepassId": 0,
+		"GamepassType": 1,
+		"Variants": [
+			{
+				"VariantName": "Standard Fleet",
+				"AssetId": 106694261990347,
+				"FleetSize": 2,
+				"MaxStock": 2
 			}
 		]
 	},
@@ -76,6 +76,66 @@
 				"AssetId": 119237403167314,
 				"FleetSize": 14,
 				"MaxStock": 14
+			}
+		]
+	},
+		{
+		"Name": "Enviro 200 EV 11.7m (SDEL)",
+		"Image": "rbxassetid://7495521129",
+		"SpawnBayName": "Sainsley",
+		"IsGamepass": false,
+		"GamepassId": 0,
+		"GamepassType": 1,
+		"Variants": [
+			{
+				"VariantName": "Batch 1",
+				"AssetId": 122617915580956,
+				"FleetSize": 10,
+				"MaxStock": 10
+			}
+		]
+	},
+			{
+		"Name": "Enviro 300 12.1/12.6m (DELL)",
+		"Image": "rbxassetid://7495521129",
+		"SpawnBayName": "Sainsley",
+		"IsGamepass": false,
+		"GamepassId": 0,
+		"GamepassType": 1,
+		"Variants": [
+			{
+				"VariantName": "DELL1",
+				"AssetId": 104277333332789,
+				"FleetSize": 1,
+				"MaxStock": 1
+			},
+			{
+				"VariantName": "DELL2-6",
+				"AssetId": 131193410456648,
+				"FleetSize": 5,
+				"MaxStock": 5
+			},
+			{
+				"VariantName": "DELL7-15",
+				"AssetId": 131791815367155,
+				"FleetSize": 9,
+				"MaxStock": 9
+			}
+		]
+	},
+	{
+		"Name": "Enviro 500 12.1m (TELA)",
+		"Image": "rbxassetid://7495521129",
+		"SpawnBayName": "Sainsley",
+		"IsGamepass": false,
+		"GamepassId": 0,
+		"GamepassType": 1,
+		"Variants": [
+			{
+				"VariantName": "Batch 1",
+				"AssetId": 84575395402816,
+				"FleetSize": 5,
+				"MaxStock": 5
 			}
 		]
 	},
