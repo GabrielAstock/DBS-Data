@@ -1,9 +1,19 @@
 [
 	{
-		"Name": "Volvo B8L (Wright Gemini 3)",
+		"Name": "Volvo B8L 11.3m (Wright Gemini 3)",
 		"ModelName": "MEX Volvo B8L 11.3m (5410-5424)",
 		"AssetId": 95863253707197,
-		"Image": "rbxassetid://82952276526772",
+		"Image": "rbxassetid://95863253707197",
+		"SpawnBayName": "AlyslynNorth",
+		"IsGamepass": false,
+		"GamepassId": 0,
+		"GamepassType": 1
+	},
+	{
+		"Name": "Volvo B8L 12.8m (MCV Evoseti)",
+		"ModelName": "MEX Volvo B8L 12.8m (7300-7334)",
+		"AssetId": 95863253707197,
+		"Image": "rbxassetid://122394410934052",
 		"SpawnBayName": "AlyslynNorth",
 		"IsGamepass": false,
 		"GamepassId": 0,
