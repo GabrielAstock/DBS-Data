@@ -19,6 +19,9 @@ while wait() do
 		show("rbxassetid://106334805112328","rbxassetid://122496051784336")
 		wait(8)
 
+	elseif script.Parent.Model.Rt.R.Num.Text == "0" then
+		show("","")
+
 	elseif script.Parent.Model.Rt.R.Num.Text == "DATE" then
 		show("rbxassetid://80731408861513","rbxassetid://122496051784336")
 
@@ -40,7 +43,7 @@ while wait() do
 	elseif script.Parent.Model.Rt.R.Num.Text == "CRB" then
 		show("rbxassetid://15946328201","rbxassetid://122496051784336")
 
-	elseif script.Parent.Model.Rt.R.Num.Text == "LOGO" then
+	elseif script.Parent.Model.Rt.R.Num.Text == "MTB" then
 		show("rbxassetid://106334805112328","rbxassetid://122496051784336")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "RPS" then
