@@ -308,7 +308,3 @@ while wait() do
 
 	else show("rbxassetid://9372519691","rbxassetid://122496051784336")end
 end
-
-
-	else show("rbxassetid://9372519691","rbxassetid://122496051784336")end
-end
