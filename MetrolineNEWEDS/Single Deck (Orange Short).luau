@@ -16,7 +16,7 @@ while wait() do
 	if script.Parent.Model.Rt.R.Num.Text == "" or script.Parent.Model.Rt.R.Num.Text == "NIS" then
 		show("rbxassetid://9372519691","rbxassetid://122496051784336")
 		wait(8)
-		show("rbxassetid://106334805112328","rbxassetid://14651991435")
+		show("rbxassetid://106334805112328","rbxassetid://122496051784336")
 		wait(8)
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "DATE" then
