@@ -233,7 +233,7 @@ while wait() do
 			show("rbxassetid://106536816051463","rbxassetid://14651994000")
 			wait(8)
 		else
-			show("rbxassetid://129499939855030","rbxassetid://14651994000")
+			show("rbxassetid://75864503917297","rbxassetid://14651994000")
 			wait(8)
 			show("rbxassetid://106536816051463","rbxassetid://14651994000")
 			wait(8)
@@ -246,11 +246,12 @@ while wait() do
 			show("rbxassetid://122106573030697","rbxassetid://14652015500")
 			wait(8)
 		else
-			show("rbxassetid://75864503917297","rbxassetid://14652015500")
+			show("rbxassetid://129499939855030","rbxassetid://14652015500")
 			wait(8)
 			show("rbxassetid://122106573030697","rbxassetid://14652015500")
 			wait(8)
 		end
+
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "41" then
 		if script.Parent.Direction.Value==true then
