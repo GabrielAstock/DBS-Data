@@ -16,10 +16,10 @@ while wait() do
 		show("","")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "DATE" then
-		show("rbxassetid://80731408861513","rbxassetid://122496051784336")
+		show("rbxassetid://93152093836699","rbxassetid://122496051784336")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "VER" then
-		show("rbxassetid://71326843820590","rbxassetid://122496051784336")
+		show("rbxassetid://104532465512308","rbxassetid://122496051784336")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "TUP" then
 		show("rbxassetid://15946325365","rbxassetid://122496051784336")
@@ -92,14 +92,22 @@ while wait() do
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "15X" then
 		if script.Parent.Direction.Value==true then
-			show("rbxassetid://15946334032","rbxassetid://14651991435")
+			show("rbxassetid://137923897850145","rbxassetid://116982038261905")
 			wait(8)
-			show("rbxassetid://107319448856477","rbxassetid://14651991435")
+			show("rbxassetid://78530856985714","rbxassetid://116982038261905")
+			wait(8)
+			show("rbxassetid://86766701472630","rbxassetid://116982038261905")
+			wait(8)
+			show("rbxassetid://74833924093969","rbxassetid://116982038261905")
 			wait(8)
 		else
-			show("rbxassetid://14651990722","rbxassetid://14651991435")
+			show("rbxassetid://95116057202024","rbxassetid://116982038261905")
 			wait(8)
-			show("rbxassetid://15946333641","rbxassetid://14651991435")
+			show("rbxassetid://114697075499016","rbxassetid://116982038261905")
+			wait(8)
+			show("rbxassetid://100592073892554","rbxassetid://116982038261905")
+			wait(8)
+			show("rbxassetid://72513222605982","rbxassetid://116982038261905")
 			wait(8)
 		end
 
@@ -197,13 +205,6 @@ while wait() do
 			wait(8)
 		end
 
-	elseif script.Parent.Model.Rt.R.Num.Text == "18R" then
-		if script.Parent.Direction.Value==true then
-			show("rbxassetid://15946333129","rbxassetid://15946333458")
-		else
-			show("rbxassetid://15946333274","rbxassetid://15946333458")
-		end
-
 	elseif script.Parent.Model.Rt.R.Num.Text == "SH1" then
 		if script.Parent.Direction.Value==true then
 			show("rbxassetid://15946326085","rbxassetid://14651992701")
@@ -267,12 +268,19 @@ while wait() do
 			show("rbxassetid://132728855643224","rbxassetid://120707520946021")
 			wait(8)
 		else
-			show("rbxassetid://115523893913097","rbxassetid://120707520946021")
+			show("rbxassetid://85147699638099","rbxassetid://120707520946021")
 			wait(8)
-			show("rbxassetid://107956278517957","rbxassetid://120707520946021")
+			show("rbxassetid://97844980030782","rbxassetid://120707520946021")
 			wait(8)
-			show("rbxassetid://138067000620608","rbxassetid://120707520946021")
+			show("rbxassetid://89475251351540","rbxassetid://120707520946021")
 			wait(8)
+		end
+
+	elseif script.Parent.Model.Rt.R.Num.Text == "X42" then
+		if script.Parent.Direction.Value==true then
+			show("rbxassetid://137456179832844","rbxassetid://104135841486428")
+		else
+			show("rbxassetid://109003214740439","rbxassetid://104135841486428")
 		end
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "629" then
@@ -294,7 +302,6 @@ while wait() do
 		wait(8)
 		show("rbxassetid://15946330154","rbxassetid://15946330451")
 		wait(8)
-
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "629M" then
 		show("rbxassetid://71120058419749","rbxassetid://15946329731")
