@@ -228,16 +228,27 @@ while wait() do
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "U15" then
 		if script.Parent.Direction.Value==true then
-			show("rbxassetid://14651993822","rbxassetid://14651994000")
+			show("rbxassetid://111120279145520","rbxassetid://14651994000")
+			wait(8)
+			show("rbxassetid://106536816051463","rbxassetid://14651994000")
+			wait(8)
 		else
-			show("rbxassetid://14651993666","rbxassetid://14651994000")
+			show("rbxassetid://129499939855030","rbxassetid://14651994000")
+			wait(8)
+			show("rbxassetid://106536816051463","rbxassetid://14651994000")
+			wait(8)
 		end
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "U18" then
 		if script.Parent.Direction.Value==true then
-			show("rbxassetid://14652015136","rbxassetid://14652015500")
+			show("rbxassetid://71138767892269","rbxassetid://14652015500")
+			wait(8)
+			show("rbxassetid://122106573030697","rbxassetid://14652015500")
+			wait(8)
 		else
-			show("rbxassetid://14652015280","rbxassetid://14652015500")
+			show("rbxassetid://75864503917297","rbxassetid://14652015500")
+			show("rbxassetid://122106573030697","rbxassetid://14652015500")
+			wait(8)
 		end
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "41" then
