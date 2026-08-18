@@ -106,7 +106,7 @@ while wait() do
 		else
 			show("rbxassetid://14651990722","rbxassetid://14651991435")
 			wait(8)
-			show("rbxassetid://15946333641","rbxassetid://14651991435")
+			show("rbxassetid://14651990442","rbxassetid://14651991435")
 			wait(8)
 		end
 
