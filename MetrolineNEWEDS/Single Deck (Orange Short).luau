@@ -204,13 +204,6 @@ while wait() do
 			wait(8)
 		end
 
-	elseif script.Parent.Model.Rt.R.Num.Text == "18R" then
-		if script.Parent.Direction.Value==true then
-			show("rbxassetid://15946333129","rbxassetid://15946333458")
-		else
-			show("rbxassetid://15946333274","rbxassetid://15946333458")
-		end
-
 	elseif script.Parent.Model.Rt.R.Num.Text == "SH1" then
 		if script.Parent.Direction.Value==true then
 			show("rbxassetid://15946326085","rbxassetid://14651992701")
@@ -301,7 +294,6 @@ while wait() do
 		wait(8)
 		show("rbxassetid://15946330154","rbxassetid://15946330451")
 		wait(8)
-
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "629M" then
 		show("rbxassetid://71120058419749","rbxassetid://15946329731")
