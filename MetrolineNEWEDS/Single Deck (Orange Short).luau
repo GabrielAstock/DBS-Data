@@ -254,6 +254,7 @@ while wait() do
 			wait(8)
 		else
 			show("rbxassetid://75864503917297","rbxassetid://14652015500")
+			wait(8)
 			show("rbxassetid://122106573030697","rbxassetid://14652015500")
 			wait(8)
 		end
