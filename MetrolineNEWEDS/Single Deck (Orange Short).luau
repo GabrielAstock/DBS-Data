@@ -299,7 +299,7 @@ while wait() do
 		if script.Parent.Direction.Value==true then
 			show("rbxassetid://137456179832844","rbxassetid://104135841486428")
 		else
-			show("rbxassetid://109003214740439","rbxassetid://104135841486428")
+			show("rbxassetid://83298222866568","rbxassetid://104135841486428")
 		end
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "629" then
