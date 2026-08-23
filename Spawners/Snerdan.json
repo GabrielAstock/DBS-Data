@@ -1,6 +1,16 @@
 [
 	{
-		"Name": "Volvo BZL SD 10.8m",
+		"Name": "ADL Enviro 200 EV Integral 10.9m",
+		"ModelName": "Enviro200EV_11.7m_MB2",
+		"AssetId": 134702043300506,
+		"Image": "rbxassetid://132132792283354",
+		"SpawnBayName": "Snerdan",
+		"IsGamepass": false,
+		"GamepassId": 0,
+		"GamepassType": 1
+	},
+	{
+		"Name": "Volvo BZL SD EV 10.8m",
 		"ModelName": "BZL_10.8m_MB_7406",
 		"AssetId": 121010381839246,
 		"Image": "rbxassetid://132132792283354",
