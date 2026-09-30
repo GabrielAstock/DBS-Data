@@ -17,7 +17,7 @@
 	},
 	{
 		"Name": "Dennis Trident (TAL)",
-		"Image": "rbxassetid://7495521129",
+		"Image": "rbxassetid://107604680038262",
 		"SpawnBayName": "TerranGreen",
 		"IsGamepass": false,
 		"GamepassId": 0,
@@ -25,7 +25,7 @@
 		"Variants": [
 			{
 				"VariantName": "TAL26-60 Batch",
-				"AssetId": 126533083974157,
+				"AssetId": 77189424907805,
 				"FleetSize": 13,
 				"MaxStock": 13
 			}
@@ -33,7 +33,7 @@
 	},
 	{
 		"Name": "Enviro200MMC 9.7m (DEM)",
-		"Image": "rbxassetid://7495521129",
+		"Image": "rbxassetid://107604680038262",
 		"SpawnBayName": "TerranGreen",
 		"IsGamepass": false,
 		"GamepassId": 0,
@@ -41,15 +41,15 @@
 		"Variants": [
 			{
 				"VariantName": "DEM41-60 Batch",
-				"AssetId": 110334731977325,
+				"AssetId": 136166740217264,
 				"FleetSize": 20,
 				"MaxStock": 20
 			}
 		]
 	},
 	{
-		"Name": "Enviro200MMC 10.8m (DEL)",
-		"Image": "rbxassetid://7495521129",
+		"Name": "Enviro200 10.8m (DEL)",
+		"Image": "rbxassetid://107604680038262",
 		"SpawnBayName": "TerranGreen",
 		"IsGamepass": false,
 		"GamepassId": 0,
@@ -57,7 +57,7 @@
 		"Variants": [
 			{
 				"VariantName": "DEL1-8",
-				"AssetId": 94133780870016,
+				"AssetId": 117879329751157,
 				"FleetSize": 8,
 				"MaxStock": 8
 			}
@@ -65,7 +65,7 @@
 	},
 	{
 		"Name": "Man 14.220 (MM)",
-		"Image": "rbxassetid://7495521129",
+		"Image": "rbxassetid://107604680038262",
 		"SpawnBayName": "TerranGreen",
 		"IsGamepass": false,
 		"GamepassId": 0,
@@ -73,13 +73,13 @@
 		"Variants": [
 			{
 				"VariantName": "Standard Fleet",
-				"AssetId": 114783648754046,
+				"AssetId": 86152644542512,
 				"FleetSize": 20,
 				"MaxStock": 20
 			},
 			{
 				"VariantName": "Euro3",
-				"AssetId": 119186868936720,
+				"AssetId": 130784155411423,
 				"FleetSize": 5,
 				"MaxStock": 5
 			}
@@ -87,7 +87,7 @@
 	},
 	{
 		"Name": "[PCV+] Scania N250UD",
-		"Image": "rbxassetid://7495521129",
+		"Image": "rbxassetid://107604680038262",
 		"SpawnBayName": "TerranGreen",
 		"IsGamepass": false,
 		"GamepassId": 0,
@@ -95,7 +95,7 @@
 		"Variants": [
 			{
 				"VariantName": "Standard Fleet",
-				"AssetId": 94298674861817,
+				"AssetId": 133709006285879,
 				"FleetSize": 15,
 				"MaxStock": 15
 			}
@@ -103,7 +103,7 @@
 	},
 	{
 		"Name": "[VIP+] Volvo B5TL (E400MMC Bodied)",
-		"Image": "rbxassetid://7495521129",
+		"Image": "rbxassetid://107604680038262",
 		"SpawnBayName": "TerranGreen",
 		"IsGamepass": false,
 		"GamepassId": 0,
@@ -111,7 +111,7 @@
 		"Variants": [
 			{
 				"VariantName": "VIP Fleet",
-				"AssetId": 104544127614678,
+				"AssetId": 110533610955028,
 				"FleetSize": 2,
 				"MaxStock": 2
 			}
@@ -119,7 +119,7 @@
 	},
 	{
 		"Name": "Volvo BZL 9.6m (VMSS1-10)",
-		"Image": "rbxassetid://7495521129",
+		"Image": "rbxassetid://107604680038262",
 		"SpawnBayName": "TerranGreen",
 		"IsGamepass": false,
 		"GamepassId": 0,
@@ -127,7 +127,7 @@
 		"Variants": [
 			{
 				"VariantName": "VMSS1-10 Batch",
-				"AssetId": 104556687197604,
+				"AssetId": 106145274606167,
 				"FleetSize": 10,
 				"MaxStock": 10
 			}
