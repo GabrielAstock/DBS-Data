@@ -1,7 +1,7 @@
 [
 	{
 		"Name": "Volvo B8RLE (VM)",
-		"Image": "rbxassetid://7495521129",
+		"Image": "rbxassetid://107604680038262",
 		"SpawnBayName": "Sainsley",
 		"IsGamepass": false,
 		"GamepassId": 0,
@@ -9,7 +9,7 @@
 		"Variants": [
 			{
 				"VariantName": "Standard Fleet",
-				"AssetId": 91981893673476,
+				"AssetId": 92401270674891,
 				"FleetSize": 20,
 				"MaxStock": 20
 			}
@@ -17,7 +17,7 @@
 	},
 		{
 		"Name": "[VIP] Volvo B9TL 12m (VOLA)",
-		"Image": "rbxassetid://7495521129",
+		"Image": "rbxassetid://107604680038262",
 		"SpawnBayName": "Sainsley",
 		"IsGamepass": false,
 		"GamepassId": 0,
@@ -25,7 +25,7 @@
 		"Variants": [
 			{
 				"VariantName": "Standard Fleet",
-				"AssetId": 106694261990347,
+				"AssetId": 120316874650734,
 				"FleetSize": 2,
 				"MaxStock": 2
 			}
@@ -33,7 +33,7 @@
 	},
 	{
 		"Name": "Wright Streetdeck (WDS)",
-		"Image": "rbxassetid://7495521129",
+		"Image": "rbxassetid://107604680038262",
 		"SpawnBayName": "Sainsley",
 		"IsGamepass": false,
 		"GamepassId": 0,
@@ -41,7 +41,7 @@
 		"Variants": [
 			{
 				"VariantName": "Standard Fleet",
-				"AssetId": 89752845058181,
+				"AssetId": 107943999772684,
 				"FleetSize": 50,
 				"MaxStock": 50
 			}
@@ -49,7 +49,7 @@
 	},
 	{
 		"Name": "Enviro 200 9.7m (DEM)",
-		"Image": "rbxassetid://7495521129",
+		"Image": "rbxassetid://107604680038262",
 		"SpawnBayName": "Sainsley",
 		"IsGamepass": false,
 		"GamepassId": 0,
@@ -57,7 +57,7 @@
 		"Variants": [
 			{
 				"VariantName": "Standard Fleet",
-				"AssetId": 91107191858790,
+				"AssetId": 131794485679369,
 				"FleetSize": 20,
 				"MaxStock": 20
 			}
@@ -65,7 +65,7 @@
 	},
 	{
 		"Name": "Enviro 200 MMC 9.75m (DEM)",
-		"Image": "rbxassetid://7495521129",
+		"Image": "rbxassetid://107604680038262",
 		"SpawnBayName": "Sainsley",
 		"IsGamepass": false,
 		"GamepassId": 0,
@@ -73,7 +73,7 @@
 		"Variants": [
 			{
 				"VariantName": "Batch 2",
-				"AssetId": 119237403167314,
+				"AssetId": 129204367257962,
 				"FleetSize": 14,
 				"MaxStock": 14
 			}
@@ -81,7 +81,7 @@
 	},
 		{
 		"Name": "Enviro 200 EV 11.7m (SDEL)",
-		"Image": "rbxassetid://7495521129",
+		"Image": "rbxassetid://107604680038262",
 		"SpawnBayName": "Sainsley",
 		"IsGamepass": false,
 		"GamepassId": 0,
@@ -89,7 +89,7 @@
 		"Variants": [
 			{
 				"VariantName": "Batch 1",
-				"AssetId": 122617915580956,
+				"AssetId": 74345749160847,
 				"FleetSize": 10,
 				"MaxStock": 10
 			}
@@ -97,7 +97,7 @@
 	},
 			{
 		"Name": "Enviro 300 12.1/12.6m (DELL)",
-		"Image": "rbxassetid://7495521129",
+		"Image": "rbxassetid://107604680038262",
 		"SpawnBayName": "Sainsley",
 		"IsGamepass": false,
 		"GamepassId": 0,
@@ -105,19 +105,19 @@
 		"Variants": [
 			{
 				"VariantName": "DELL1",
-				"AssetId": 104277333332789,
+				"AssetId": 101088418119601,
 				"FleetSize": 1,
 				"MaxStock": 1
 			},
 			{
 				"VariantName": "DELL2-6",
-				"AssetId": 131193410456648,
+				"AssetId": 118780761558796,
 				"FleetSize": 5,
 				"MaxStock": 5
 			},
 			{
 				"VariantName": "DELL7-15",
-				"AssetId": 131791815367155,
+				"AssetId": 137067597995928,
 				"FleetSize": 9,
 				"MaxStock": 9
 			}
@@ -125,7 +125,7 @@
 	},
 	{
 		"Name": "[PCV+] Enviro 500 12.1m (TELA)",
-		"Image": "rbxassetid://7495521129",
+		"Image": "rbxassetid://107604680038262",
 		"SpawnBayName": "Sainsley",
 		"IsGamepass": false,
 		"GamepassId": 0,
@@ -133,7 +133,7 @@
 		"Variants": [
 			{
 				"VariantName": "Batch 1",
-				"AssetId": 84575395402816,
+				"AssetId": 74440336134742,
 				"FleetSize": 5,
 				"MaxStock": 5
 			}
@@ -141,7 +141,7 @@
 	},
 	{
 		"Name": "Dennis Trident 10.6m (TAL)",
-		"Image": "rbxassetid://7495521129",
+		"Image": "rbxassetid://107604680038262",
 		"SpawnBayName": "Sainsley",
 		"IsGamepass": false,
 		"GamepassId": 0,
@@ -149,7 +149,7 @@
 		"Variants": [
 			{
 				"VariantName": "TAL1-25 Batch",
-				"AssetId": 130737206842771,
+				"AssetId": 109119044176674,
 				"FleetSize": 6,
 				"MaxStock": 6
 			}
@@ -157,7 +157,7 @@
 	},
 	{
 		"Name": "Enviro 400 (TE)",
-		"Image": "rbxassetid://7495521129",
+		"Image": "rbxassetid://107604680038262",
 		"SpawnBayName": "Sainsley",
 		"IsGamepass": false,
 		"GamepassId": 0,
@@ -165,13 +165,13 @@
 		"Variants": [
 			{
 				"VariantName": "TE2-20 Batch",
-				"AssetId": 101713290099208,
+				"AssetId": 94282160956394,
 				"FleetSize": 29,
 				"MaxStock": 29
 			},
 			{
 				"VariantName": "TE1 Ambassador Livery",
-				"AssetId": 131923927012285,
+				"AssetId": 91988989650289,
 				"FleetSize": 1,
 				"MaxStock": 1
 			}
@@ -179,7 +179,7 @@
 	},
 	{
 		"Name": "Enviro 400 MMC (TEH)",
-		"Image": "rbxassetid://7495521129",
+		"Image": "rbxassetid://107604680038262",
 		"SpawnBayName": "Sainsley",
 		"IsGamepass": false,
 		"GamepassId": 0,
@@ -187,7 +187,7 @@
 		"Variants": [
 			{
 				"VariantName": "TEH21-35 Batch",
-				"AssetId": 128688821483073,
+				"AssetId": 111688960221959,
 				"FleetSize": 15,
 				"MaxStock": 15
 			}
