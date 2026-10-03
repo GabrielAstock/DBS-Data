@@ -85,6 +85,22 @@
 			}
 		]
 	},
+		{
+		"Name": "Mercedes-Benz Citaro 12.0m (First Generation)",
+		"Image": "rbxassetid://107604680038262",
+		"SpawnBayName": "TerranGreen",
+		"IsGamepass": false,
+		"GamepassId": 0,
+		"GamepassType": 1,
+		"Variants": [
+			{
+				"VariantName": "Standard Fleet",
+				"AssetId": 126867562661646,
+				"FleetSize": 6,
+				"MaxStock": 6
+			}
+		]
+	},
 	{
 		"Name": "[PCV+] Scania N250UD",
 		"Image": "rbxassetid://107604680038262",
