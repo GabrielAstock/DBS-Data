@@ -7,107 +7,106 @@ end
 
 while wait() do
 	if script.Parent.Model.Rt.R.Num.Text == "" or script.Parent.Model.Rt.R.Num.Text == "NIS" then
-		show("rbxassetid://9372519691","rbxassetid://122496051784336")
+		show("rbxassetid://138582744671768","rbxassetid://94001784472040")
 		wait(8)
-		show("rbxassetid://106334805112328","rbxassetid://122496051784336")
+		show("rbxassetid://122366561024133","rbxassetid://94001784472040")
 		wait(8)
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "0" then
 		show("","")
 
-	elseif script.Parent.Model.Rt.R.Num.Text == "DATE" then
-		show("rbxassetid://93152093836699","rbxassetid://122496051784336")
-
 	elseif script.Parent.Model.Rt.R.Num.Text == "VER" then
-		show("rbxassetid://104532465512308","rbxassetid://122496051784336")
+		show("rbxassetid://106708870043403","rbxassetid://94001784472040")
 
-	elseif script.Parent.Model.Rt.R.Num.Text == "TUP" then
-		show("rbxassetid://15946325365","rbxassetid://122496051784336")
+	elseif script.Parent.Model.Rt.R.Num.Text == "P" then
+		show("rbxassetid://123765221541233","rbxassetid://124231721646007")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "PLG" then
-		show("rbxassetid://15946326563","rbxassetid://122496051784336")
-
-	elseif script.Parent.Model.Rt.R.Num.Text == "MET" then
-		show("rbxassetid://15946327133","rbxassetid://122496051784336")
-
-	elseif script.Parent.Model.Rt.R.Num.Text == "HAN" then
-		show("rbxassetid://15946327659","rbxassetid://122496051784336")
+		show("rbxassetid://119600578370874","rbxassetid://94001784472040")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "CRB" then
 		show("rbxassetid://15946328201","rbxassetid://122496051784336")
 
-	elseif script.Parent.Model.Rt.R.Num.Text == "MTB" then
-		show("rbxassetid://106334805112328","rbxassetid://122496051784336")
+	elseif script.Parent.Model.Rt.R.Num.Text == "NEXT" then
+		show("rbxassetid://122366561024133","rbxassetid://94001784472040")
+
+	elseif script.Parent.Model.Rt.R.Num.Text == "NEX" then
+		show("rbxassetid://94174334820636","rbxassetid://93308656882057")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "RPS" then
-		show("rbxassetid://9372519414","rbxassetid://122496051784336")
+		show("rbxassetid://128710778374125","rbxassetid://112056217506301")
+
+	elseif script.Parent.Model.Rt.R.Num.Text == "RAIL" then
+		show("rbxassetid://129722080388512","rbxassetid://81174404704051")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "TRANSBUS" then
-		show("rbxassetid://9372517224","rbxassetid://122496051784336")	
+		show("rbxassetid://139223352103736","rbxassetid://121348688931098")	
 
-	elseif script.Parent.Model.Rt.R.Num.Text == "PLAXTON" then
-		show("rbxassetid://9372518178","rbxassetid://122496051784336")	
+	elseif script.Parent.Model.Rt.R.Num.Text == "DART" then
+		show("rbxassetid://135881451298609","rbxassetid://120822809011045")	
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "HIRE" then
 		show("rbxassetid://106993534046455","rbxassetid://122496051784336")
 		wait(8)
 		show("rbxassetid://78128033620106","rbxassetid://122496051784336")
 		wait(8)
+
 	elseif script.Parent.Model.Rt.R.Num.Text == "LOST" then
-		show("rbxassetid://83532820103691","rbxassetid://122496051784336")
+		show("rbxassetid://101344654462342","rbxassetid://136817377978225")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "1" then
 		if script.Parent.Direction.Value==true then
-			show("rbxassetid://93601985258893","rbxassetid://120861211778752")
+			show("rbxassetid://88285713635418","rbxassetid://128503264563992")
 			wait(8)
-			show("rbxassetid://112502251578388","rbxassetid://120861211778752")
+			show("rbxassetid://102654726174696","rbxassetid://128503264563992")
 			wait(8)
 		else
-			show("rbxassetid://123278858345713","rbxassetid://120861211778752")
+			show("rbxassetid://124737840625560","rbxassetid://128503264563992")
 			wait(8)
-			show("rbxassetid://116972937232294","rbxassetid://120861211778752")
+			show("rbxassetid://81563860799219","rbxassetid://128503264563992")
 			wait(8)
 		end
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "3" then
 		if script.Parent.Direction.Value==true then
-			show("rbxassetid://84706620174859","rbxassetid://124656383714283")
+			show("rbxassetid://125651029164830","rbxassetid://97690745801229")
 			wait(8)
-			show("rbxassetid://114400754991000","rbxassetid://124656383714283")
+			show("rbxassetid://130115982709863","rbxassetid://97690745801229")
 			wait(8)
-			show("rbxassetid://96841070552966","rbxassetid://124656383714283")
+			show("rbxassetid://71708111411585","rbxassetid://97690745801229")
 			wait(8)
-			show("rbxassetid://139807267192881","rbxassetid://124656383714283")
+			show("rbxassetid://93275060001493","rbxassetid://97690745801229")
 			wait(8)
 		else
-			show("rbxassetid://140234938945565","rbxassetid://124656383714283")
+			show("rbxassetid://113272870015646","rbxassetid://97690745801229")
 			wait(8)
-			show("rbxassetid://85668155205449","rbxassetid://124656383714283")
+			show("rbxassetid://130696385401215","rbxassetid://97690745801229")
 			wait(8)
-			show("rbxassetid://138810968887907","rbxassetid://124656383714283")
+			show("rbxassetid://128387961400229","rbxassetid://97690745801229")
 			wait(8)
-			show("rbxassetid://70574434128034","rbxassetid://124656383714283")
+			show("rbxassetid://128606341374484","rbxassetid://97690745801229")
 			wait(8)
 		end
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "15X" then
+--wait me
 		if script.Parent.Direction.Value==true then
-			show("rbxassetid://137923897850145","rbxassetid://116982038261905")
+			show("rbxassetid://137923897850145","rbxassetid://128709091486352")
 			wait(8)
-			show("rbxassetid://78530856985714","rbxassetid://116982038261905")
+			show("rbxassetid://78530856985714","rbxassetid://128709091486352")
 			wait(8)
-			show("rbxassetid://86766701472630","rbxassetid://116982038261905")
+			show("rbxassetid://86766701472630","rbxassetid://128709091486352")
 			wait(8)
-			show("rbxassetid://74833924093969","rbxassetid://116982038261905")
+			show("rbxassetid://74833924093969","rbxassetid://128709091486352")
 			wait(8)
 		else
-			show("rbxassetid://95116057202024","rbxassetid://116982038261905")
+			show("rbxassetid://95116057202024","rbxassetid://128709091486352")
 			wait(8)
-			show("rbxassetid://114697075499016","rbxassetid://116982038261905")
+			show("rbxassetid://114697075499016","rbxassetid://128709091486352")
 			wait(8)
-			show("rbxassetid://100592073892554","rbxassetid://116982038261905")
+			show("rbxassetid://100592073892554","rbxassetid://128709091486352")
 			wait(8)
-			show("rbxassetid://72513222605982","rbxassetid://116982038261905")
+			show("rbxassetid://72513222605982","rbxassetid://128709091486352")
 			wait(8)
 		end
 
