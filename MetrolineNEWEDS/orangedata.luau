@@ -22,6 +22,21 @@ while wait() do
 	elseif script.Parent.Model.Rt.R.Num.Text == "P" then
 		show("rbxassetid://123765221541233","rbxassetid://124231721646007")
 
+	elseif script.Parent.Model.Rt.R.Num.Text == "ADL" then
+		show("rbxassetid://95774926077745","rbxassetid://87217612692813")
+
+	elseif script.Parent.Model.Rt.R.Num.Text == "MAN" then
+		show("rbxassetid://131012167099258","rbxassetid://112768456017987")
+
+	elseif script.Parent.Model.Rt.R.Num.Text == "TURBOJET" then
+		show("rbxassetid://99864102310398","rbxassetid://128298112195121")
+
+	elseif script.Parent.Model.Rt.R.Num.Text == "TEAMNY" then
+		show("rbxassetid://93356281594046","rbxassetid://76571270120137")
+
+	elseif script.Parent.Model.Rt.R.Num.Text == "TEAMBRENDON" then
+		show("rbxassetid://134093180607985","rbxassetid://85599215642466")
+
 	elseif script.Parent.Model.Rt.R.Num.Text == "PLG" then
 		show("rbxassetid://119600578370874","rbxassetid://94001784472040")
 
