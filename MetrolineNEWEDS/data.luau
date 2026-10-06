@@ -89,240 +89,223 @@ while wait() do
 		end
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "15X" then
---wait me
 		if script.Parent.Direction.Value==true then
-			show("rbxassetid://137923897850145","rbxassetid://128709091486352")
+			show("rbxassetid://92365795989091","rbxassetid://128709091486352")
 			wait(8)
-			show("rbxassetid://78530856985714","rbxassetid://128709091486352")
+			show("rbxassetid://120910623380500","rbxassetid://128709091486352")
 			wait(8)
-			show("rbxassetid://86766701472630","rbxassetid://128709091486352")
-			wait(8)
-			show("rbxassetid://74833924093969","rbxassetid://128709091486352")
+			show("rbxassetid://97081928929050","rbxassetid://128709091486352")
 			wait(8)
 		else
-			show("rbxassetid://95116057202024","rbxassetid://128709091486352")
+			show("rbxassetid://120270136528324","rbxassetid://128709091486352")
 			wait(8)
-			show("rbxassetid://114697075499016","rbxassetid://128709091486352")
+			show("rbxassetid://128746645467101","rbxassetid://128709091486352")
 			wait(8)
-			show("rbxassetid://100592073892554","rbxassetid://128709091486352")
-			wait(8)
-			show("rbxassetid://72513222605982","rbxassetid://128709091486352")
+			show("rbxassetid://140219343580133","rbxassetid://128709091486352")
 			wait(8)
 		end
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "15" then
 		if script.Parent.Direction.Value==true then
-			show("rbxassetid://103330355188657","rbxassetid://14651991435")
+			show("rbxassetid://78832092435417","rbxassetid://79176427258086")
 			wait(8)
-			show("rbxassetid://14651990442","rbxassetid://14651991435")
+			show("rbxassetid://86500772394406","rbxassetid://79176427258086")
 			wait(8)
 		else
-			show("rbxassetid://14651990971","rbxassetid://14651991435")
+			show("rbxassetid://76324247212723","rbxassetid://79176427258086")
 			wait(8)
-			show("rbxassetid://107319448856477","rbxassetid://14651991435")
+			show("rbxassetid://105391758145509","rbxassetid://79176427258086")
 			wait(8)
 		end
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "15A" then
 		if script.Parent.Direction.Value==true then
-			show("rbxassetid://15946334768","rbxassetid://15946335139")
+			show("rbxassetid://132082751146362","rbxassetid://76762920565087")
 		else
-			show("rbxassetid://15946336169","rbxassetid://15946335139")
+			show("rbxassetid://137458752170185","rbxassetid://76762920565087")
 		end
+
 	elseif script.Parent.Model.Rt.R.Num.Text == "N15" then
 		if script.Parent.Direction.Value==true then
-			show("rbxassetid://71264918533541","rbxassetid://107352965242258")
+			show("rbxassetid://75776170356906","rbxassetid://71486661474890")
 			wait(8)
-			show("rbxassetid://81535140529396","rbxassetid://107352965242258")
+			show("rbxassetid://132565252977071","rbxassetid://71486661474890")
 			wait(8)
-			show("rbxassetid://135141156173985","rbxassetid://107352965242258")
+			show("rbxassetid://119271638686637","rbxassetid://71486661474890")
 			wait(8)
 		else
-			show("rbxassetid://72938183803784","rbxassetid://107352965242258")
+			show("rbxassetid://135779356181598","rbxassetid://71486661474890")
 			wait(8)
-			show("rbxassetid://78330506847077","rbxassetid://107352965242258")
+			show("rbxassetid://73279763124686","rbxassetid://71486661474890")
 			wait(8)
-			show("rbxassetid://112726109728653","rbxassetid://107352965242258")
+			show("rbxassetid://120655530572150","rbxassetid://71486661474890")
 			wait(8)
 		end
 	elseif script.Parent.Model.Rt.R.Num.Text == "17" then
 		if script.Parent.Direction.Value==true then
-			show("rbxassetid://89234038888660","rbxassetid://122748321002132")
+			show("rbxassetid://83306467612771","rbxassetid://115973519782963")
 			wait(8)
-			show("rbxassetid://126190204684624","rbxassetid://122748321002132")
+			show("rbxassetid://116988807469312","rbxassetid://115973519782963")
 			wait(8)
-			show("rbxassetid://108039459135411","rbxassetid://122748321002132")
+			show("rbxassetid://82084190724851","rbxassetid://115973519782963")
 			wait(8)
 		else
-			show("rbxassetid://100920814605244","rbxassetid://122748321002132")
+			show("rbxassetid://107871523052873","rbxassetid://115973519782963")
 			wait(8)
-			show("rbxassetid://77412778265596","rbxassetid://122748321002132")
+			show("rbxassetid://105175655090755","rbxassetid://115973519782963")
 			wait(8)
-			show("rbxassetid://82236154982052","rbxassetid://122748321002132")
+			show("rbxassetid://131230747044733","rbxassetid://115973519782963")
 			wait(8)
 		end
 	elseif script.Parent.Model.Rt.R.Num.Text == "17X" then
 		if script.Parent.Direction.Value==true then
-			show("rbxassetid://107571441652058","rbxassetid://79546884376831")
+			show("rbxassetid://87544413852659","rbxassetid://126890968924649")
 			wait(8)
-			show("rbxassetid://90231273335894","rbxassetid://79546884376831")
+			show("rbxassetid://110224556414389","rbxassetid://126890968924649")
 			wait(8)
-			show("rbxassetid://127917877817732","rbxassetid://79546884376831")
+			show("rbxassetid://139159525396143","rbxassetid://126890968924649")
 			wait(8)
 		else
-			show("rbxassetid://99052264001999","rbxassetid://79546884376831")
+			show("rbxassetid://129216241269476","rbxassetid://126890968924649")
 			wait(8)
-			show("rbxassetid://76234207214181","rbxassetid://79546884376831")
+			show("rbxassetid://136444882426914","rbxassetid://126890968924649")
 			wait(8)
-			show("rbxassetid://121075049694067","rbxassetid://79546884376831")
+			show("rbxassetid://109700819105475","rbxassetid://126890968924649")
 			wait(8)
 		end
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "18" then
 		if script.Parent.Direction.Value==true then
-			show("rbxassetid://81486951643236","rbxassetid://11579260192")
+			show("rbxassetid://123418351935763","rbxassetid://81994884967824")
 			wait(8)
-			show("rbxassetid://15946331122","rbxassetid://11579260192")
+			show("rbxassetid://93194623379506","rbxassetid://81994884967824")
 			wait(8)
 		else
-			show("rbxassetid://15946332886","rbxassetid://11579260192")
+			show("rbxassetid://112108022157782","rbxassetid://81994884967824")
 			wait(8)
-			show("rbxassetid://72184772724287","rbxassetid://11579260192")
+			show("rbxassetid://114792696050261","rbxassetid://81994884967824")
 			wait(8)
 		end
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "18X" then
 		if script.Parent.Direction.Value==true then
-			show("rbxassetid://85774921667191","rbxassetid://11579260458")
+			show("rbxassetid://123542805637524","rbxassetid://104746965616816")
 			wait(8)
-			show("rbxassetid://15946331596","rbxassetid://11579260458")
+			show("rbxassetid://107278663894434","rbxassetid://104746965616816")
 			wait(8)
 		else
-			show("rbxassetid://15946332335","rbxassetid://11579260458")
+			show("rbxassetid://98550697697032","rbxassetid://104746965616816")
 			wait(8)
-			show("rbxassetid://140344822252009","rbxassetid://11579260458")
+			show("rbxassetid://129118791023072","rbxassetid://104746965616816")
 			wait(8)
 		end
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "SH1" then
 		if script.Parent.Direction.Value==true then
-			show("rbxassetid://15946326085","rbxassetid://14651992701")
+			show("rbxassetid://100631602900415","rbxassetid://74738818339150")
 			wait(8)
-			show("rbxassetid://138777647120803","rbxassetid://14651992701")
+			show("rbxassetid://78558467419710","rbxassetid://74738818339150")
 			wait(8)
-			show("rbxassetid://14651992536","rbxassetid://14651992701")
+			show("rbxassetid://99844299316217","rbxassetid://74738818339150")
 			wait(8)
-			show("rbxassetid://15946326386","rbxassetid://14651992701")
+			show("rbxassetid://103343828136439","rbxassetid://74738818339150")
 			wait(8)
 		else
-			show("rbxassetid://99930604705391","rbxassetid://14651992701")
+			show("rbxassetid://100631602900415","rbxassetid://74738818339150")
 			wait(8)
-			show("rbxassetid://89356535641641","rbxassetid://14651992701")
+			show("rbxassetid://120183039661700","rbxassetid://74738818339150")
 			wait(8)
-			show("rbxassetid://89114334845604","rbxassetid://14651992701")
+			show("rbxassetid://85062638617750","rbxassetid://74738818339150")
 			wait(8)
-			show("rbxassetid://15946326386","rbxassetid://14651992701")
+			show("rbxassetid://112714179908666","rbxassetid://74738818339150")
 			wait(8)
 		end
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "U15" then
 		if script.Parent.Direction.Value==true then
-			show("rbxassetid://111120279145520","rbxassetid://14651994000")
+			show("rbxassetid://112710356638252","rbxassetid://108182766084261")
 			wait(8)
-			show("rbxassetid://106536816051463","rbxassetid://14651994000")
+			show("rbxassetid://129525689040916","rbxassetid://108182766084261")
 			wait(8)
 		else
-			show("rbxassetid://75864503917297","rbxassetid://14651994000")
+			show("rbxassetid://140013685054341","rbxassetid://108182766084261")
 			wait(8)
-			show("rbxassetid://106536816051463","rbxassetid://14651994000")
+			show("rbxassetid://129525689040916","rbxassetid://108182766084261")
 			wait(8)
 		end
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "U18" then
 		if script.Parent.Direction.Value==true then
-			show("rbxassetid://71138767892269","rbxassetid://14652015500")
+			show("rbxassetid://106299411027861","rbxassetid://73778709549134")
 			wait(8)
-			show("rbxassetid://122106573030697","rbxassetid://14652015500")
+			show("rbxassetid://107227209078836","rbxassetid://73778709549134")
 			wait(8)
 		else
-			show("rbxassetid://129499939855030","rbxassetid://14652015500")
+			show("rbxassetid://128559284626378","rbxassetid://73778709549134")
 			wait(8)
-			show("rbxassetid://122106573030697","rbxassetid://14652015500")
+			show("rbxassetid://107227209078836","rbxassetid://73778709549134")
 			wait(8)
 		end
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "41" then
 		if script.Parent.Direction.Value==true then
-			show("rbxassetid://107422794751845","rbxassetid://137999871196639")
+			show("rbxassetid://91306311287971","rbxassetid://113129755727425")
 		else
-			show("rbxassetid://100007153997778","rbxassetid://137999871196639")
+			show("rbxassetid://72477448257658","rbxassetid://113129755727425")
 		end
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "41X" then
 		if script.Parent.Direction.Value==true then
-			show("rbxassetid://94798861493992","rbxassetid://100941478465837")
+			show("rbxassetid://81832569927920","rbxassetid://73270197353750")
 		else
-			show("rbxassetid://100737227746356","rbxassetid://100941478465837")
+			show("rbxassetid://134778747599589","rbxassetid://73270197353750")
 		end
 	elseif script.Parent.Model.Rt.R.Num.Text == "N41" then
 		if script.Parent.Direction.Value==true then
-			show("rbxassetid://115220669686719","rbxassetid://94485634147014")
+			show("rbxassetid://108542042630231","rbxassetid://86149752004731")
 		else
-			show("rbxassetid://94116181001453","rbxassetid://94485634147014")
+			show("rbxassetid://126008928643648","rbxassetid://86149752004731")
 		end
 	elseif script.Parent.Model.Rt.R.Num.Text == "42" then
 		if script.Parent.Direction.Value==true then
-			show("rbxassetid://77481847944290","rbxassetid://120707520946021")
+			show("rbxassetid://111975265357489","rbxassetid://70607926723556")
 			wait(8)
-			show("rbxassetid://85537971486235","rbxassetid://120707520946021")
+			show("rbxassetid://76573689895486","rbxassetid://70607926723556")
 			wait(8)
-			show("rbxassetid://132728855643224","rbxassetid://120707520946021")
+			show("rbxassetid://92658674716859","rbxassetid://70607926723556")
 			wait(8)
 		else
-			show("rbxassetid://85147699638099","rbxassetid://120707520946021")
+			show("rbxassetid://135228436947079","rbxassetid://70607926723556")
 			wait(8)
-			show("rbxassetid://97844980030782","rbxassetid://120707520946021")
+			show("rbxassetid://72454828590130","rbxassetid://70607926723556")
 			wait(8)
-			show("rbxassetid://89475251351540","rbxassetid://120707520946021")
+			show("rbxassetid://94088925721687","rbxassetid://70607926723556")
 			wait(8)
 		end
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "X42" then
 		if script.Parent.Direction.Value==true then
-			show("rbxassetid://137456179832844","rbxassetid://104135841486428")
+			show("rbxassetid://129298369645151","rbxassetid://97996238850467")
 		else
-			show("rbxassetid://83298222866568","rbxassetid://104135841486428")
+			show("rbxassetid://79551663104367","rbxassetid://97996238850467")
 		end
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "629" then
 		if script.Parent.Direction.Value==true then
-			show("rbxassetid://15946329065","rbxassetid://15946330731")
+			show("rbxassetid://132632538217157","rbxassetid://90379588621532")
 		else
-			show("rbxassetid://15946329445","rbxassetid://15946330731")
+			show("rbxassetid://134239532610497","rbxassetid://90379588621532")
 		end
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "629A" then
 		if script.Parent.Direction.Value==true then
-			show("rbxassetid://15946329297","rbxassetid://15946330731")
+			show("rbxassetid://103460230477312","rbxassetid://90379588621532")
 		else
-			show("rbxassetid://15946328845","rbxassetid://15946330731")
+			show("rbxassetid://126640327470752","rbxassetid://90379588621532")
 		end
-
-	elseif script.Parent.Model.Rt.R.Num.Text == "629B" then
-		show("rbxassetid://15946329874","rbxassetid://15946330451")
-		wait(8)
-		show("rbxassetid://15946330154","rbxassetid://15946330451")
-		wait(8)
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "629M" then
-		show("rbxassetid://71120058419749","rbxassetid://15946329731")
+		show("rbxassetid://98846997255625","rbxassetid://78888566973791")
 
-	elseif script.Parent.Model.Rt.R.Num.Text == "630" then
-		if script.Parent.Direction.Value==true then
-			show("rbxassetid://15946328380","rbxassetid://15946328678")
-		else
-			show("rbxassetid://15946328540","rbxassetid://15946328678")
-		end
-
-	else show("rbxassetid://9372519691","rbxassetid://122496051784336")end
+	else show("rbxassetid://138582744671768","rbxassetid://94001784472040")end
 end
