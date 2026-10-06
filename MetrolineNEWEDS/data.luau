@@ -2,7 +2,7 @@ function show(front,rear)
 	script.Parent.Magnet.Front.SurfaceGui.ImageLabel.Image or script.Parent.Magnet.Front.SurfaceGui.Image1.Value = front
 	script.Parent.Model.Rt.C.ImageLabel.Image = front	
 	script.Parent.Magnet.Side.SurfaceGui.ImageLabel.Image or script.Parent.Magnet.Side.SurfaceGui.Image1.Value = rear
-	script.Parent.Magnet.Rear.SurfaceGui.ImageLabel.Image or 	script.Parent.Magnet.Rear.SurfaceGui.Image1.Value = rear
+	script.Parent.Magnet.Rear.SurfaceGui.ImageLabel.Image or script.Parent.Magnet.Rear.SurfaceGui.Image1.Value = rear
 end
 
 while wait() do
