@@ -22,11 +22,26 @@ while wait() do
 	elseif script.Parent.Model.Rt.R.Num.Text == "P" then
 		show("rbxassetid://123765221541233","rbxassetid://124231721646007")
 
+	elseif script.Parent.Model.Rt.R.Num.Text == "ADL" then
+		show("rbxassetid://95774926077745","rbxassetid://87217612692813")
+
+	elseif script.Parent.Model.Rt.R.Num.Text == "MAN" then
+		show("rbxassetid://131012167099258","rbxassetid://112768456017987")
+
+	elseif script.Parent.Model.Rt.R.Num.Text == "TURBOJET" then
+		show("rbxassetid://99864102310398","rbxassetid://128298112195121")
+
+	elseif script.Parent.Model.Rt.R.Num.Text == "TEAMNY" then
+		show("rbxassetid://93356281594046","rbxassetid://76571270120137")
+
+	elseif script.Parent.Model.Rt.R.Num.Text == "TEAMBRENDON" then
+		show("rbxassetid://134093180607985","rbxassetid://85599215642466")
+
 	elseif script.Parent.Model.Rt.R.Num.Text == "PLG" then
 		show("rbxassetid://119600578370874","rbxassetid://94001784472040")
 
-	elseif script.Parent.Model.Rt.R.Num.Text == "CRB" then
-		show("rbxassetid://15946328201","rbxassetid://122496051784336")
+	--elseif script.Parent.Model.Rt.R.Num.Text == "CRB" then
+		--show("rbxassetid://15946328201","rbxassetid://122496051784336")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "NEXT" then
 		show("rbxassetid://122366561024133","rbxassetid://94001784472040")
@@ -46,11 +61,11 @@ while wait() do
 	elseif script.Parent.Model.Rt.R.Num.Text == "DART" then
 		show("rbxassetid://135881451298609","rbxassetid://120822809011045")	
 
-	elseif script.Parent.Model.Rt.R.Num.Text == "HIRE" then
-		show("rbxassetid://106993534046455","rbxassetid://122496051784336")
-		wait(8)
-		show("rbxassetid://78128033620106","rbxassetid://122496051784336")
-		wait(8)
+	--elseif script.Parent.Model.Rt.R.Num.Text == "HIRE" then
+		--show("rbxassetid://106993534046455","rbxassetid://122496051784336")
+		--wait(8)
+		--show("rbxassetid://78128033620106","rbxassetid://122496051784336")
+		--wait(8)
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "LOST" then
 		show("rbxassetid://101344654462342","rbxassetid://136817377978225")
