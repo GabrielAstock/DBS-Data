@@ -79,6 +79,22 @@
 			}
 		]
 	},
+	{
+		"Name": "Enviro 200 10.2m (DE)",
+		"Image": "rbxassetid://107604680038262",
+		"SpawnBayName": "Sainsley",
+		"IsGamepass": false,
+		"GamepassId": 0,
+		"GamepassType": 1,
+		"Variants": [
+			{
+				"VariantName": "Standard Fleet",
+				"AssetId": 126401965674623,
+				"FleetSize": 20,
+				"MaxStock": 20
+			}
+		]
+	},
 		{
 		"Name": "Enviro 200 EV 11.7m (SDEL)",
 		"Image": "rbxassetid://107604680038262",
