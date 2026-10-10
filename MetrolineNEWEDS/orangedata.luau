@@ -64,6 +64,12 @@ while wait() do
 		show("rbxassetid://122638480162416","rbxassetid://73016228044511")
 		wait(8)
 
+elseif script.Parent.Model.Rt.R.Num.Text == "HKKF" then
+		show("rbxassetid://70848225798588","rbxassetid://71501009152678")
+
+elseif script.Parent.Model.Rt.R.Num.Text == "AKB48" then
+		show("rbxassetid://133369659764135","rbxassetid://85845713533398")
+
 	elseif script.Parent.Model.Rt.R.Num.Text == "CRB" then
 		show("rbxassetid://84277240647003","rbxassetid://134180089841235")
 
