@@ -40,8 +40,8 @@ while wait() do
 	elseif script.Parent.Model.Rt.R.Num.Text == "PLG" then
 		show("rbxassetid://119600578370874","rbxassetid://94001784472040")
 
-	--elseif script.Parent.Model.Rt.R.Num.Text == "CRB" then
-		--show("rbxassetid://15946328201","rbxassetid://122496051784336")
+	elseif script.Parent.Model.Rt.R.Num.Text == "CRB" then
+		show("rbxassetid://84277240647003","rbxassetid://134180089841235")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "NEXT" then
 		show("rbxassetid://122366561024133","rbxassetid://94001784472040")
@@ -61,11 +61,19 @@ while wait() do
 	elseif script.Parent.Model.Rt.R.Num.Text == "DART" then
 		show("rbxassetid://135881451298609","rbxassetid://120822809011045")	
 
-	--elseif script.Parent.Model.Rt.R.Num.Text == "HIRE" then
-		--show("rbxassetid://106993534046455","rbxassetid://122496051784336")
-		--wait(8)
-		--show("rbxassetid://78128033620106","rbxassetid://122496051784336")
-		--wait(8)
+	elseif script.Parent.Model.Rt.R.Num.Text == "HIRE" then
+		show("rbxassetid://113314695856485","rbxassetid://94001784472040")
+		wait(8)
+		show("rbxassetid://73714385915124","rbxassetid://94001784472040")
+		wait(8)
+
+	elseif script.Parent.Model.Rt.R.Num.Text == "TRAINING" then
+		show("rbxassetid://113314695856485","rbxassetid://94001784472040")
+		wait(8)
+		show("rbxassetid://73714385915124","rbxassetid://94001784472040")
+		wait(8)
+		show("rbxassetid://113534856408853","rbxassetid://94001784472040")
+		wait(8)
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "LOST" then
 		show("rbxassetid://101344654462342","rbxassetid://136817377978225")
