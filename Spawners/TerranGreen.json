@@ -100,6 +100,22 @@
 				"MaxStock": 6
 			}
 		]
+			},
+		{
+		"Name": "[VIP+] Mercedes-Benz Citaro 12.0m (Crew Bus)",
+		"Image": "rbxassetid://107604680038262",
+		"SpawnBayName": "TerranGreen",
+		"IsGamepass": false,
+		"GamepassId": 0,
+		"GamepassType": 1,
+		"Variants": [
+			{
+				"VariantName": "Standard Fleet",
+				"AssetId": 129066573446186,
+				"FleetSize": 1,
+				"MaxStock": 1
+			}
+		]
 	},
 	{
 		"Name": "[PCV+] Scania N250UD",
@@ -118,7 +134,7 @@
 		]
 	},
 	{
-		"Name": "[VIP+] Volvo B5TL (E400MMC Bodied)",
+		"Name": "[SD+] Volvo B5TL (E400MMC Bodied)",
 		"Image": "rbxassetid://107604680038262",
 		"SpawnBayName": "TerranGreen",
 		"IsGamepass": false,
