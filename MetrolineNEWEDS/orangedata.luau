@@ -40,6 +40,30 @@ while wait() do
 	elseif script.Parent.Model.Rt.R.Num.Text == "PLG" then
 		show("rbxassetid://119600578370874","rbxassetid://94001784472040")
 
+	elseif script.Parent.Model.Rt.R.Num.Text == "MET" then
+		show("rbxassetid://84277240647003","rbxassetid://73016228044511")
+
+	elseif script.Parent.Model.Rt.R.Num.Text == "TUP" then
+		show("rbxassetid://75649713552849","rbxassetid://95510800368258")
+
+	elseif script.Parent.Model.Rt.R.Num.Text == "HARRINGTON" then
+		show("rbxassetid://119145596354833","rbxassetid://133560747572994")
+
+	elseif script.Parent.Model.Rt.R.Num.Text == "BARLOW" then
+		show("rbxassetid://89022790692119","rbxassetid://133560747572994")
+
+	elseif script.Parent.Model.Rt.R.Num.Text == "SBG" then
+		show("rbxassetid://104811705525822","rbxassetid://133560747572994")
+
+	elseif script.Parent.Model.Rt.R.Num.Text == "HAN" then
+		show("rbxassetid://101238118480678","rbxassetid://123987890639117")
+
+	elseif script.Parent.Model.Rt.R.Num.Text == "METROLINE" then
+		show("rbxassetid://71965570423654","rbxassetid://73016228044511")
+		wait(8)
+		show("rbxassetid://122638480162416","rbxassetid://73016228044511")
+		wait(8)
+
 	elseif script.Parent.Model.Rt.R.Num.Text == "CRB" then
 		show("rbxassetid://84277240647003","rbxassetid://134180089841235")
 
