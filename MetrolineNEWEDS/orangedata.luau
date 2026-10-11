@@ -41,7 +41,7 @@ while wait() do
 		show("rbxassetid://119600578370874","rbxassetid://94001784472040")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "MET" then
-		show("rbxassetid://84277240647003","rbxassetid://73016228044511")
+		show("rbxassetid://132438435576133","rbxassetid://73016228044511")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "TUP" then
 		show("rbxassetid://75649713552849","rbxassetid://95510800368258")
