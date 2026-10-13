@@ -78,6 +78,12 @@
 				"MaxStock": 20
 			},
 			{
+				"VariantName": "Demo",
+				"AssetId": 73688824942393,
+				"FleetSize": 1,
+				"MaxStock": 1
+			},
+			{
 				"VariantName": "Euro3",
 				"AssetId": 130784155411423,
 				"FleetSize": 5,
