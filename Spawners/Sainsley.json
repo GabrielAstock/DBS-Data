@@ -168,6 +168,12 @@
 				"AssetId": 109119044176674,
 				"FleetSize": 6,
 				"MaxStock": 6
+			},
+			{
+				"VariantName": "TAL59-60",
+				"AssetId": 77189424907805,
+				"FleetSize": 2,
+				"MaxStock": 2
 			}
 		]
 	},
