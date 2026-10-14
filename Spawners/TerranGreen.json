@@ -16,22 +16,6 @@
 		]
 	},
 	{
-		"Name": "Dennis Trident (TAL)",
-		"Image": "rbxassetid://107604680038262",
-		"SpawnBayName": "TerranGreen",
-		"IsGamepass": false,
-		"GamepassId": 0,
-		"GamepassType": 1,
-		"Variants": [
-			{
-				"VariantName": "TAL26-60 Batch",
-				"AssetId": 77189424907805,
-				"FleetSize": 13,
-				"MaxStock": 13
-			}
-		]
-	},
-	{
 		"Name": "Enviro200MMC 9.7m (DEM)",
 		"Image": "rbxassetid://107604680038262",
 		"SpawnBayName": "TerranGreen",
