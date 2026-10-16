@@ -17,7 +17,7 @@ while wait() do
 		show("","")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "VER" then
-		show("rbxassetid://106708870043403","rbxassetid://94001784472040")
+		show("rbxassetid://139751522701093","rbxassetid://94001784472040")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "P" then
 		show("rbxassetid://123765221541233","rbxassetid://124231721646007")
@@ -107,6 +107,23 @@ elseif script.Parent.Model.Rt.R.Num.Text == "AKB48" then
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "LOST" then
 		show("rbxassetid://101344654462342","rbxassetid://136817377978225")
+
+	elseif script.Parent.Model.Rt.R.Num.Text == "DL1" then
+		if script.Parent.Direction.Value==true then
+			show("rbxassetid://97631307868265","rbxassetid://87609441082334")
+			wait(8)
+			show("rbxassetid://72982937191449","rbxassetid://87609441082334")
+			wait(8)
+			show("rbxassetid://106286398125272","rbxassetid://87609441082334")
+			wait(8)
+		else
+			show("rbxassetid://139588756571083","rbxassetid://87609441082334")
+			wait(8)
+			show("rbxassetid://72982937191449","rbxassetid://87609441082334")
+			wait(8)
+			show("rbxassetid://106286398125272","rbxassetid://87609441082334")
+			wait(8)
+		end
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "1" then
 		if script.Parent.Direction.Value==true then
