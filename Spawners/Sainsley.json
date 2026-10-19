@@ -164,7 +164,7 @@
 		"GamepassType": 1,
 		"Variants": [
 			{
-				"VariantName": "TAL1-25 Batch",
+				"VariantName": "20to25",
 				"AssetId": 109119044176674,
 				"FleetSize": 6,
 				"MaxStock": 6
