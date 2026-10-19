@@ -31,10 +31,10 @@ while wait() do
 	elseif script.Parent.Model.Rt.R.Num.Text == "TURBOJET" then
 		show("rbxassetid://99864102310398","rbxassetid://128298112195121")
 
-	elseif script.Parent.Model.Rt.R.Num.Text == "TEAMNY" then
+	elseif script.Parent.Model.Rt.R.Num.Text == "TEAMNAT" then
 		show("rbxassetid://93356281594046","rbxassetid://76571270120137")
 
-	elseif script.Parent.Model.Rt.R.Num.Text == "TEAMBRENDON" then
+	elseif script.Parent.Model.Rt.R.Num.Text == "BRENDON" then
 		show("rbxassetid://134093180607985","rbxassetid://85599215642466")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "PLG" then
@@ -76,7 +76,7 @@ elseif script.Parent.Model.Rt.R.Num.Text == "AKB48" then
 	elseif script.Parent.Model.Rt.R.Num.Text == "NEXT" then
 		show("rbxassetid://122366561024133","rbxassetid://94001784472040")
 
-	elseif script.Parent.Model.Rt.R.Num.Text == "NEX" then
+	elseif script.Parent.Model.Rt.R.Num.Text == "NARITA" then
 		show("rbxassetid://94174334820636","rbxassetid://93308656882057")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "RPS" then
