@@ -224,6 +224,12 @@
 				"AssetId": 91988989650289,
 				"FleetSize": 1,
 				"MaxStock": 1
+			},
+			{
+				"VariantName": "TE31-40",
+				"AssetId": 89724106095926,
+				"FleetSize": 10,
+				"MaxStock": 10
 			}
 		]
 	},
