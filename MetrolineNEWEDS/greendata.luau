@@ -5,7 +5,6 @@ function show(front, rear)
 	script.Parent.Magnet.Rear.SurfaceGui.Image1.Value = rear
 end
 
-
 while wait() do
 	if script.Parent.Model.Rt.R.Num.Text == "" or script.Parent.Model.Rt.R.Num.Text == "NIS" then
 		show("rbxassetid://138582744671768","rbxassetid://94001784472040")
@@ -17,7 +16,7 @@ while wait() do
 		show("","")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "VER" then
-		show("rbxassetid://139751522701093","rbxassetid://94001784472040")
+		show("rbxassetid://134874419358045","rbxassetid://94001784472040")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "P" then
 		show("rbxassetid://123765221541233","rbxassetid://124231721646007")
@@ -327,9 +326,15 @@ elseif script.Parent.Model.Rt.R.Num.Text == "AKB48" then
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "41X" then
 		if script.Parent.Direction.Value==true then
-			show("rbxassetid://81832569927920","rbxassetid://73270197353750")
+			show("rbxassetid://131614427146463","rbxassetid://73270197353750")
+			wait(8)
+			show("rbxassetid://74737426331075","rbxassetid://73270197353750")
+			wait(8)
 		else
+			show("rbxassetid://109799350767296","rbxassetid://73270197353750")
+			wait(8)
 			show("rbxassetid://134778747599589","rbxassetid://73270197353750")
+			wait(8)
 		end
 	elseif script.Parent.Model.Rt.R.Num.Text == "N41" then
 		if script.Parent.Direction.Value==true then
