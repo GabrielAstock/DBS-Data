@@ -48,6 +48,22 @@
 		]
 	},
 	{
+		"Name": "Enviro200EV 10.9m (SDE)",
+		"Image": "rbxassetid://107604680038262",
+		"SpawnBayName": "TerranGreen",
+		"IsGamepass": false,
+		"GamepassId": 0,
+		"GamepassType": 1,
+		"Variants": [
+			{
+				"VariantName": "SDE1-5",
+				"AssetId": 126294109785013,
+				"FleetSize": 5,
+				"MaxStock": 5
+			}
+		]
+	},
+	{
 		"Name": "Man 14.220/15.250 (MM)",
 		"Image": "rbxassetid://107604680038262",
 		"SpawnBayName": "TerranGreen",
