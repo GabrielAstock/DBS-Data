@@ -26,8 +26,8 @@
 			{
 				"VariantName": "Batch 1",
 				"AssetId": 76708948635667,
-				"FleetSize": 10,
-				"MaxStock": 10
+				"FleetSize": 20,
+				"MaxStock": 20
 			},
 			{
 				"VariantName": "Batch 2",
