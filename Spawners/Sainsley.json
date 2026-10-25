@@ -198,6 +198,12 @@
 				"MaxStock": 6
 			},
 			{
+				"VariantName": "19",
+				"AssetId": 82097092899761,
+				"FleetSize": 1,
+				"MaxStock": 1
+			},
+			{
 				"VariantName": "TAL59-60",
 				"AssetId": 77189424907805,
 				"FleetSize": 2,
