@@ -184,34 +184,6 @@
 		]
 	},
 	{
-		"Name": "Dennis Trident 10.6m (TAL)",
-		"Image": "rbxassetid://107604680038262",
-		"SpawnBayName": "Sainsley",
-		"IsGamepass": false,
-		"GamepassId": 0,
-		"GamepassType": 1,
-		"Variants": [
-			{
-				"VariantName": "20to25",
-				"AssetId": 109119044176674,
-				"FleetSize": 6,
-				"MaxStock": 6
-			},
-			{
-				"VariantName": "19",
-				"AssetId": 82097092899761,
-				"FleetSize": 1,
-				"MaxStock": 1
-			},
-			{
-				"VariantName": "TAL59-60",
-				"AssetId": 77189424907805,
-				"FleetSize": 2,
-				"MaxStock": 2
-			}
-		]
-	},
-	{
 		"Name": "Enviro 400 (TE)",
 		"Image": "rbxassetid://107604680038262",
 		"SpawnBayName": "Sainsley",
