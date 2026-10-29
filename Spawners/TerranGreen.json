@@ -156,7 +156,7 @@
 		]
 	},
 	{
-		"Name": "[SD+] Volvo B5TL (E400MMC Bodied)",
+		"Name": "[SD+] Volvo B5TL (E400MMC Bodied, VE)",
 		"Image": "rbxassetid://107604680038262",
 		"SpawnBayName": "TerranGreen",
 		"IsGamepass": false,
@@ -168,6 +168,22 @@
 				"AssetId": 110533610955028,
 				"FleetSize": 2,
 				"MaxStock": 2
+			}
+		]
+	},
+	{
+		"Name": "[VIP+] Volvo B5TL (E400MMC Bodied Coach, VEC)",
+		"Image": "rbxassetid://107604680038262",
+		"SpawnBayName": "TerranGreen",
+		"IsGamepass": false,
+		"GamepassId": 0,
+		"GamepassType": 1,
+		"Variants": [
+			{
+				"VariantName": "VIP Fleet",
+				"AssetId": 109119044176674,
+				"FleetSize": 1,
+				"MaxStock": 1
 			}
 		]
 	},
