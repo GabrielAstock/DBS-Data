@@ -180,6 +180,12 @@
 				"AssetId": 74440336134742,
 				"FleetSize": 5,
 				"MaxStock": 5
+			},
+			{
+				"VariantName": "Poppy",
+				"AssetId": 85422677180404,
+				"FleetSize": 1,
+				"MaxStock": 1
 			}
 		]
 	},
