@@ -30,6 +30,9 @@ while wait() do
 	elseif script.Parent.Model.Rt.R.Num.Text == "TURBOJET" then
 		show("rbxassetid://99864102310398","rbxassetid://128298112195121")
 
+	elseif script.Parent.Model.Rt.R.Num.Text == "POPPYAPPEAL" then
+        show("rbxassetid://115889063253577","rbxassetid://107206636766530")
+
 	elseif script.Parent.Model.Rt.R.Num.Text == "TEAMNAT" then
 		show("rbxassetid://93356281594046","rbxassetid://76571270120137")
 
