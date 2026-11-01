@@ -14,54 +14,54 @@ end
 
 while wait() do
 	if script.Parent.Model.Rt.R.Num.Text == "" or script.Parent.Model.Rt.R.Num.Text == "NIS" then
-		show("rbxassetid://9372519691","rbxassetid://122496051784336")
+		show("rbxassetid://9372519691","rbxassetid://11579259876")
 		wait(8)
-		show("rbxassetid://106334805112328","rbxassetid://122496051784336")
+		show("rbxassetid://88941385224558","rbxassetid://11579259876")
 		wait(8)
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "0" then
 		show("","")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "DATE" then
-		show("rbxassetid://93152093836699","rbxassetid://122496051784336")
+		show("rbxassetid://93152093836699","rbxassetid://11579259876")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "VER" then
-		show("rbxassetid://104532465512308","rbxassetid://122496051784336")
+		show("rbxassetid://104532465512308","rbxassetid://11579259876")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "TUP" then
-		show("rbxassetid://15946325365","rbxassetid://122496051784336")
+		show("rbxassetid://15946325365","rbxassetid://11579259876")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "PLG" then
-		show("rbxassetid://15946326563","rbxassetid://122496051784336")
+		show("rbxassetid://15946326563","rbxassetid://11579259876")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "MET" then
-		show("rbxassetid://15946327133","rbxassetid://122496051784336")
+		show("rbxassetid://15946327133","rbxassetid://11579259876")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "HAN" then
-		show("rbxassetid://15946327659","rbxassetid://122496051784336")
+		show("rbxassetid://15946327659","rbxassetid://11579259876")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "CRB" then
-		show("rbxassetid://15946328201","rbxassetid://122496051784336")
+		show("rbxassetid://15946328201","rbxassetid://11579259876")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "MTB" then
-		show("rbxassetid://106334805112328","rbxassetid://122496051784336")
+		show("rbxassetid://88941385224558","rbxassetid://11579259876")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "RPS" then
-		show("rbxassetid://9372519414","rbxassetid://122496051784336")
+		show("rbxassetid://9372519414","rbxassetid://11579259876")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "TRANSBUS" then
-		show("rbxassetid://9372517224","rbxassetid://122496051784336")	
+		show("rbxassetid://9372517224","rbxassetid://11579259876")	
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "PLAXTON" then
-		show("rbxassetid://9372518178","rbxassetid://122496051784336")	
+		show("rbxassetid://9372518178","rbxassetid://11579259876")	
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "HIRE" then
-		show("rbxassetid://106993534046455","rbxassetid://122496051784336")
+		show("rbxassetid://106993534046455","rbxassetid://11579259876")
 		wait(8)
-		show("rbxassetid://78128033620106","rbxassetid://122496051784336")
+		show("rbxassetid://78128033620106","rbxassetid://11579259876")
 		wait(8)
 	elseif script.Parent.Model.Rt.R.Num.Text == "LOST" then
-		show("rbxassetid://83532820103691","rbxassetid://122496051784336")
+		show("rbxassetid://83532820103691","rbxassetid://11579259876")
 
 	elseif script.Parent.Model.Rt.R.Num.Text == "1" then
 		if script.Parent.Direction.Value==true then
@@ -332,5 +332,5 @@ while wait() do
 			show("rbxassetid://15946328540","rbxassetid://15946328678")
 		end
 
-	else show("rbxassetid://9372519691","rbxassetid://122496051784336")end
+	else show("rbxassetid://9372519691","rbxassetid://11579259876")end
 end
