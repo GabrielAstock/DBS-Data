@@ -164,11 +164,17 @@
 		"GamepassType": 1,
 		"Variants": [
 			{
-				"VariantName": "VIP Fleet",
+				"VariantName": "VE1-2",
 				"AssetId": 110533610955028,
 				"FleetSize": 2,
 				"MaxStock": 2
-			}
+			},
+			{
+				"VariantName": "VE3",
+				"AssetId": 76679627420897,
+				"FleetSize": 1,
+				"MaxStock": 1
+			}			
 		]
 	},
 	{
