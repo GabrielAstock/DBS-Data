@@ -106,7 +106,7 @@
 				"MaxStock": 6
 			}
 		]
-			},
+	},
 		{
 		"Name": "[VIP+] Mercedes-Benz Citaro 12.0m (Crew Bus)",
 		"Image": "rbxassetid://107604680038262",
@@ -118,8 +118,8 @@
 			{
 				"VariantName": "Standard Fleet",
 				"AssetId": 129066573446186,
-				"FleetSize": 1,
-				"MaxStock": 1
+				"FleetSize": 3,
+				"MaxStock": 3
 			}
 		]
 },
